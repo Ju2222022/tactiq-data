@@ -17,7 +17,7 @@ def build_database():
     print("⚽️ Téléchargement des données depuis Kaggle (EA FC 24)...")
     
     # Utilisation du dataset de référence
-    path = kagglehub.dataset_download("sanjeetsinghnaik/ea-sports-fc-24-complete-player-dataset")
+    path = kagglehub.dataset_download("rovnez/fc-26-fifa-26-player-data")
     csv_path = os.path.join(path, "male_players.csv") # ou le nom exact du fichier principal
     
     print(f"📊 Fichier trouvé : {csv_path}. Début du traitement...")

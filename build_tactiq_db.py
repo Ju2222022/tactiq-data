@@ -3,22 +3,39 @@ import json
 import uuid
 import kagglehub
 import os
+import math
 
 # 1. CONFIGURATION
 TOP_PLAYERS_COUNT = 500 # On garde les 500 meilleurs joueurs du monde pour commencer
 
 def process_positions(pos_string):
-    if not isinstance(pos_string, str): return ["CM"]
-    # Les positions dans FIFA sont séparées par des virgules (ex: "ST, LW")
+    # Sécurité anti-crash si la position est vide (NaN)
+    if not isinstance(pos_string, str) or pd.isna(pos_string): 
+        return ["CM"]
+    
     positions = [p.strip().upper() for p in pos_string.split(',')]
     return positions
 
+# Helpers de sécurité pour éviter les crashs sur les cellules vides (NaN)
+def safe_int(val, default=50):
+    if pd.isna(val): 
+        return default
+    try:
+        return int(float(val))
+    except:
+        return default
+
+def safe_str(val, default="Unknown"):
+    if pd.isna(val): 
+        return default
+    return str(val)
+
 def build_database():
-    print("⚽️ Téléchargement des données depuis Kaggle (EA FC 24)...")
+    print("⚽️ Téléchargement des données depuis Kaggle (EA FC)...")
     
     # Utilisation du dataset de référence
     path = kagglehub.dataset_download("rovnez/fc-26-fifa-26-player-data")
-    csv_path = os.path.join(path, "male_players.csv") # ou le nom exact du fichier principal
+    csv_path = os.path.join(path, "male_players.csv")
     
     print(f"📊 Fichier trouvé : {csv_path}. Début du traitement...")
     df = pd.read_csv(csv_path, low_memory=False)
@@ -35,28 +52,28 @@ def build_database():
     
     for index, row in df.iterrows():
         # Extraction des positions
-        positions = process_positions(row.get('player_positions', 'CM'))
+        positions = process_positions(row.get('player_positions'))
         primary_pos = positions[0]
         secondary_pos = positions[1:] if len(positions) > 1 else []
         
-        # Création du dictionnaire joueur (Structure en Anglais)
+        # Création du dictionnaire joueur avec nettoyage sécurisé
         player = {
             "id": str(uuid.uuid4()),
-            "name": str(row.get('short_name', 'Unknown')),
-            "rating": int(row.get('overall', 70)),
+            "name": safe_str(row.get('short_name'), 'Unknown'),
+            "rating": safe_int(row.get('overall'), 70),
             "position": primary_pos,
             "secondaryPositions": secondary_pos,
-            "nationality": str(row.get('nationality_name', 'Unknown')),
-            "club": str(row.get('club_name', 'Free Agent')),
-            "league": str(row.get('league_name', 'Unknown')),
-            "marketValue": int(row.get('value_eur', 0)),
+            "nationality": safe_str(row.get('nationality_name'), 'Unknown'),
+            "club": safe_str(row.get('club_name'), 'Free Agent'),
+            "league": safe_str(row.get('league_name'), 'Unknown'),
+            "marketValue": safe_int(row.get('value_eur'), 0),
             "stats": {
-                "pace": int(row.get('pace', 50)),
-                "shooting": int(row.get('shooting', 50)),
-                "passing": int(row.get('passing', 50)),
-                "dribbling": int(row.get('dribbling', 50)),
-                "defending": int(row.get('defending', 50)),
-                "physical": int(row.get('physic', 50)) # Note: c'est souvent 'physic' dans les CSV Kaggle
+                "pace": safe_int(row.get('pace'), 50),
+                "shooting": safe_int(row.get('shooting'), 50),
+                "passing": safe_int(row.get('passing'), 50),
+                "dribbling": safe_int(row.get('dribbling'), 50),
+                "defending": safe_int(row.get('defending'), 50),
+                "physical": safe_int(row.get('physic'), 50) 
             }
         }
         players_list.append(player)

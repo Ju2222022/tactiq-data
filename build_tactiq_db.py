@@ -3,7 +3,7 @@ import json
 import uuid
 import kagglehub
 import os
-import math
+import glob # NOUVEAU: Pour chercher les fichiers dynamiquement
 
 # 1. CONFIGURATION
 TOP_PLAYERS_COUNT = 500 # On garde les 500 meilleurs joueurs du monde pour commencer
@@ -35,7 +35,16 @@ def build_database():
     
     # Utilisation du dataset de référence
     path = kagglehub.dataset_download("rovnez/fc-26-fifa-26-player-data")
-    csv_path = os.path.join(path, "male_players.csv")
+    
+    # NOUVEAU: Recherche dynamique du fichier CSV
+    # On cherche tous les fichiers .csv dans le dossier téléchargé
+    csv_files = glob.glob(os.path.join(path, "**/*.csv"), recursive=True)
+    
+    if not csv_files:
+        raise FileNotFoundError(f"❌ ERREUR : Aucun fichier CSV trouvé dans {path}")
+        
+    # S'il y a plusieurs fichiers, on prend le plus lourd (la vraie DB des joueurs)
+    csv_path = max(csv_files, key=os.path.getsize)
     
     print(f"📊 Fichier trouvé : {csv_path}. Début du traitement...")
     df = pd.read_csv(csv_path, low_memory=False)

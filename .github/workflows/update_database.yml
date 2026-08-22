@@ -30,7 +30,7 @@ jobs:
       - name: Run Python Builder
         env:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-          KAGGLE_TACTIQ_KEY: ${{ secrets.KAGGLE_TAACTIQ_KEY }}
+          KAGGLE_TACTIQ_KEY: ${{ secrets.KAGGLE_TACTIQ_KEY }}
         run: python build_tactiq_db.py
         
       - name: Commit and Push changes

@@ -1,6 +1,6 @@
 [
     {
-        "id": "f73df790-7b27-4dbe-bf28-3218136758db",
+        "id": "8d5a2484-6b43-4a0d-a801-8e1cd4afd73c",
         "name": "K. Mbappé",
         "rating": 91,
         "position": "ST",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": "75a4f137-b50f-48a8-9bc3-3c6abf979c6e",
+        "id": "4b0ece8f-0e59-44d7-87a4-6fc7134cb89c",
         "name": "M. Salah",
         "rating": 91,
         "position": "RM",
@@ -43,7 +43,7 @@
         }
     },
     {
-        "id": "6af909af-d143-4c21-a581-0cb73e8f76dd",
+        "id": "c1710d03-f04a-4624-9339-0a3741ddcff1",
         "name": "O. Dembélé",
         "rating": 90,
         "position": "ST",
@@ -65,7 +65,7 @@
         }
     },
     {
-        "id": "34ba41bd-590b-4065-87ce-ac60c2ffdaa0",
+        "id": "9fa38ba2-01ff-4902-9c78-453925636665",
         "name": "E. Haaland",
         "rating": 90,
         "position": "ST",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "1e8a7c52-cde8-41c9-a1ec-97adc87734a3",
+        "id": "7ede7e9f-1e17-4c3d-8b14-0f605ce49a35",
         "name": "Rodri",
         "rating": 90,
         "position": "CDM",
@@ -105,7 +105,7 @@
         }
     },
     {
-        "id": "4df9b1d9-ebe3-4f30-94d8-aefdb630711e",
+        "id": "6be0f9e3-5cef-4487-8f0e-88ebf1c3a3f9",
         "name": "V. van Dijk",
         "rating": 90,
         "position": "CB",
@@ -124,7 +124,7 @@
         }
     },
     {
-        "id": "e546a128-e700-4247-bf36-600264e2137a",
+        "id": "0d7caa35-c31a-4b31-be08-fd52ab2d8d53",
         "name": "J. Bellingham",
         "rating": 90,
         "position": "CAM",
@@ -145,7 +145,7 @@
         }
     },
     {
-        "id": "aca7746b-902d-4104-926b-fa4b0ad2bd76",
+        "id": "21696873-6b4f-4e6e-ad36-85c21db48021",
         "name": "Vini Jr.",
         "rating": 89,
         "position": "LW",
@@ -167,7 +167,7 @@
         }
     },
     {
-        "id": "220df189-2026-438b-a81b-d8b4847a43ac",
+        "id": "c2ef8c5d-4fc2-45d1-9ba1-3426549e211d",
         "name": "G. Donnarumma",
         "rating": 89,
         "position": "GK",
@@ -186,7 +186,7 @@
         }
     },
     {
-        "id": "9eba8c54-1bd8-4175-9d18-f5de8df26cf2",
+        "id": "0b7803f4-4815-46a3-adc2-ecef6526af51",
         "name": "J. Kimmich",
         "rating": 89,
         "position": "CDM",
@@ -208,7 +208,7 @@
         }
     },
     {
-        "id": "aaefbdfc-2cdc-4e7e-8613-25fcb0c7b1b3",
+        "id": "3a19ac85-6fac-422e-85f1-6241dcb161fe",
         "name": "F. Valverde",
         "rating": 89,
         "position": "CM",
@@ -230,7 +230,7 @@
         }
     },
     {
-        "id": "58a76250-b8de-46f1-8605-c08d7428a4b5",
+        "id": "c9d9fdc5-ecaa-4e56-909b-2a65ad1c6398",
         "name": "Raphinha",
         "rating": 89,
         "position": "LM",
@@ -251,7 +251,7 @@
         }
     },
     {
-        "id": "e3652522-88f7-4cbe-a343-b117a9f25293",
+        "id": "a42f3315-0cad-4858-935c-b33a2e86b41d",
         "name": "Pedri",
         "rating": 89,
         "position": "CM",
@@ -273,7 +273,7 @@
         }
     },
     {
-        "id": "22b18e13-07a7-42ea-a0b6-09cfbfcf71c0",
+        "id": "4e971d54-3331-4c87-b718-4d0d25e59705",
         "name": "Alisson",
         "rating": 89,
         "position": "GK",
@@ -292,7 +292,7 @@
         }
     },
     {
-        "id": "5a4c54f9-7e59-485f-ad69-477306dfa19a",
+        "id": "282d8265-aaa7-4acb-8ece-62da2a2e50f1",
         "name": "Lamine Yamal",
         "rating": 89,
         "position": "RM",
@@ -313,7 +313,7 @@
         }
     },
     {
-        "id": "f71128f0-90df-4375-8454-45767df24500",
+        "id": "cf6f2fc3-65c1-4c2d-a721-1bee61b302ba",
         "name": "T. Courtois",
         "rating": 89,
         "position": "GK",
@@ -332,7 +332,7 @@
         }
     },
     {
-        "id": "382e6ef2-f27c-4369-a14a-ccd1b3e0262e",
+        "id": "ffeae9f8-5a3f-4af6-94f0-0405639e0c45",
         "name": "F. Wirtz",
         "rating": 89,
         "position": "CAM",
@@ -354,7 +354,7 @@
         }
     },
     {
-        "id": "bb984683-abdc-41f8-a426-174400d5bee1",
+        "id": "2f41fb1e-2ba1-4a38-9481-24ae925fc798",
         "name": "Vitinha",
         "rating": 89,
         "position": "CM",
@@ -376,7 +376,7 @@
         }
     },
     {
-        "id": "95590299-8a53-4012-a8e9-7c82cd216990",
+        "id": "1fab582f-9e66-46a7-bcaf-cbfdcdf7eaa2",
         "name": "H. Kane",
         "rating": 89,
         "position": "ST",
@@ -395,7 +395,7 @@
         }
     },
     {
-        "id": "88104406-c9f3-4352-922b-92ff9868a68d",
+        "id": "8ed2b5ab-e4b6-4a0e-ad17-5e45ce116a98",
         "name": "A. Hakimi",
         "rating": 89,
         "position": "RB",
@@ -416,7 +416,7 @@
         }
     },
     {
-        "id": "e2f1304f-a3b1-4407-9a11-6a4b590ee3ed",
+        "id": "b8018fe6-c2af-4729-b55e-018d61bf8a7d",
         "name": "A. Isak",
         "rating": 88,
         "position": "ST",
@@ -435,7 +435,7 @@
         }
     },
     {
-        "id": "2f025bbc-2250-4cef-95fd-8487d96bad02",
+        "id": "014d75bf-0f1a-42bc-aa5b-4bb3257d0268",
         "name": "Gabriel",
         "rating": 88,
         "position": "CB",
@@ -454,7 +454,7 @@
         }
     },
     {
-        "id": "d196c5ec-1f80-4b22-9a85-fe2ff2eb1113",
+        "id": "d75aa29d-b950-4ec4-85f6-8095bda6bdfd",
         "name": "J. Musiala",
         "rating": 88,
         "position": "CAM",
@@ -477,7 +477,7 @@
         }
     },
     {
-        "id": "a5d7db32-3c17-498a-bc62-1aa76ca08ea7",
+        "id": "b87be696-cb09-4ebb-91b9-e3fadaa584dc",
         "name": "J. Oblak",
         "rating": 88,
         "position": "GK",
@@ -496,7 +496,7 @@
         }
     },
     {
-        "id": "0f4d25cc-7bbe-4ca7-ac81-0de027a4f44d",
+        "id": "dc529130-b9f4-4050-b2f9-63f6ac1fa9d9",
         "name": "L. Martínez",
         "rating": 88,
         "position": "ST",
@@ -515,7 +515,7 @@
         }
     },
     {
-        "id": "a6f0f5a1-4311-4b24-9a86-ee8dbae55760",
+        "id": "2da0cedd-15e5-4308-a6d4-4bfd92386037",
         "name": "B. Saka",
         "rating": 88,
         "position": "RW",
@@ -536,7 +536,7 @@
         }
     },
     {
-        "id": "468c329a-1fc2-4dc5-b9b8-47df7939c713",
+        "id": "22b5bb7c-eb64-4253-9b6c-ece3f83b10d7",
         "name": "R. Lewandowski",
         "rating": 88,
         "position": "ST",
@@ -555,7 +555,7 @@
         }
     },
     {
-        "id": "0747f02e-3243-44c1-b5b5-2068fe1fc998",
+        "id": "f75c9a18-29dc-4319-a6f3-a41b2d7104c7",
         "name": "K. De Bruyne",
         "rating": 87,
         "position": "CM",
@@ -576,7 +576,7 @@
         }
     },
     {
-        "id": "d9e2962a-1cd2-4da9-9fd2-aa463363cce5",
+        "id": "c7044fbd-554a-4714-8bb3-e600a9ef9f5c",
         "name": "A. Bastoni",
         "rating": 87,
         "position": "CB",
@@ -595,7 +595,7 @@
         }
     },
     {
-        "id": "46bd620b-7743-49f0-9432-a8c5a1ad979b",
+        "id": "8cdf88cb-faeb-44b3-ba75-02522e019a5f",
         "name": "Y. Sommer",
         "rating": 87,
         "position": "GK",
@@ -614,7 +614,7 @@
         }
     },
     {
-        "id": "b14e12e7-1f8d-4e9c-b544-5af62aab0bfb",
+        "id": "995bbdb0-d457-4b59-a2e7-061b6b28b733",
         "name": "M. Maignan",
         "rating": 87,
         "position": "GK",
@@ -633,7 +633,7 @@
         }
     },
     {
-        "id": "473e1528-07b6-46c2-8402-e6810a0921b6",
+        "id": "16cb70a3-26e6-431d-9f47-80f62d959a99",
         "name": "W. Saliba",
         "rating": 87,
         "position": "CB",
@@ -652,7 +652,7 @@
         }
     },
     {
-        "id": "8f72f5d1-4b56-4de5-a9a0-8d6b59a583dd",
+        "id": "6e28fac9-8d7f-4c29-b744-21c75f0609e9",
         "name": "N. Barella",
         "rating": 87,
         "position": "CM",
@@ -671,7 +671,7 @@
         }
     },
     {
-        "id": "d1a12767-7d9e-4ed6-86c2-f4c7e196adbb",
+        "id": "a6caffc1-5021-4af5-9cf5-d9d93320347e",
         "name": "Marquinhos",
         "rating": 87,
         "position": "CB",
@@ -690,7 +690,7 @@
         }
     },
     {
-        "id": "2bdf8338-299a-42cf-80ee-0d6c0f35dee9",
+        "id": "b8d5cc2f-c102-425c-a674-4deae3d0fe06",
         "name": "F. de Jong",
         "rating": 87,
         "position": "CM",
@@ -711,7 +711,7 @@
         }
     },
     {
-        "id": "9502f505-4aa1-43b3-92ec-eb1d6e9d7a24",
+        "id": "1a57e2d5-9e45-4215-820a-5d82f28aa84a",
         "name": "M. Ødegaard",
         "rating": 87,
         "position": "CM",
@@ -732,7 +732,7 @@
         }
     },
     {
-        "id": "84ffc1f4-f559-414b-8f53-ca091c2c03b6",
+        "id": "2012dd29-2185-4a7f-95d2-357534f002c3",
         "name": "A. Mac Allister",
         "rating": 87,
         "position": "CM",
@@ -753,7 +753,7 @@
         }
     },
     {
-        "id": "df6a24a0-150a-4c5d-9267-37529ed51789",
+        "id": "6ac9865c-397d-4823-9548-896ad2ce926c",
         "name": "V. Osimhen",
         "rating": 87,
         "position": "ST",
@@ -772,7 +772,7 @@
         }
     },
     {
-        "id": "bdf31723-2a55-4cfd-a36b-e09eea276887",
+        "id": "25158b55-8204-46e2-98f6-dfc8d63692d2",
         "name": "David Raya",
         "rating": 87,
         "position": "GK",
@@ -791,7 +791,7 @@
         }
     },
     {
-        "id": "78d04d91-d111-4f49-8337-47b911795073",
+        "id": "14a8847d-ed0d-42c0-9efe-44c2297bb6ad",
         "name": "D. Rice",
         "rating": 87,
         "position": "CDM",
@@ -812,7 +812,7 @@
         }
     },
     {
-        "id": "a9f5eb8f-92c7-464d-9dbb-4dbbc2cf49dc",
+        "id": "1ee665e5-7424-4f42-91ef-87a76b0deb41",
         "name": "S. Guirassy",
         "rating": 87,
         "position": "ST",
@@ -831,7 +831,7 @@
         }
     },
     {
-        "id": "d3cea5e2-0e0f-406d-a9a6-2bc3b5ac7939",
+        "id": "65b7f27a-44d8-4f97-aff9-383dfd6faa7d",
         "name": "V. Gyökeres",
         "rating": 87,
         "position": "ST",
@@ -850,7 +850,7 @@
         }
     },
     {
-        "id": "1935829f-c6c5-48db-8440-a6e54113d352",
+        "id": "a1e63ef8-8de0-4491-8fc5-9ca664275dec",
         "name": "M. Caicedo",
         "rating": 87,
         "position": "CDM",
@@ -871,7 +871,7 @@
         }
     },
     {
-        "id": "babe5d70-ec5c-4aa5-b9f3-1bc7a96d70b4",
+        "id": "eb44973c-dec3-42f3-9b5d-5da80b88a988",
         "name": "Bruno Fernandes",
         "rating": 87,
         "position": "CAM",
@@ -892,7 +892,7 @@
         }
     },
     {
-        "id": "1ad6fe37-8988-4b1c-92da-060411bd8fad",
+        "id": "ded328ba-ddd5-4396-998c-dfab186346c2",
         "name": "J. Tah",
         "rating": 87,
         "position": "CB",
@@ -911,7 +911,7 @@
         }
     },
     {
-        "id": "793d9c9b-ec5a-46ef-9533-19ab1b8d586e",
+        "id": "8aa42f2a-4ee0-4813-9dca-48ca82041de6",
         "name": "C. Palmer",
         "rating": 87,
         "position": "CAM",
@@ -933,7 +933,7 @@
         }
     },
     {
-        "id": "da43c0d6-671b-417f-b5bc-cd78a7abf6c9",
+        "id": "64f67750-a681-40d1-8bdc-396aa05cff80",
         "name": "J. Alvarez",
         "rating": 87,
         "position": "ST",
@@ -952,7 +952,7 @@
         }
     },
     {
-        "id": "9d347e8e-a51f-446a-b0e2-6531792caf76",
+        "id": "cda2ee7b-3005-4a45-b1ae-15c3a190fe2f",
         "name": "J. Koundé",
         "rating": 87,
         "position": "RB",
@@ -974,7 +974,7 @@
         }
     },
     {
-        "id": "ca354bae-8e4c-4c50-bbd5-90c78453d102",
+        "id": "9eb2ca15-a367-48c4-82c3-c8bdfbb8544d",
         "name": "K. Kvaratskhelia",
         "rating": 87,
         "position": "LW",
@@ -996,7 +996,7 @@
         }
     },
     {
-        "id": "48192d92-aaaa-43ad-ac29-efc3b5575a01",
+        "id": "d710c039-b693-4967-a402-08f156202390",
         "name": "I. Konaté",
         "rating": 86,
         "position": "CB",
@@ -1015,7 +1015,7 @@
         }
     },
     {
-        "id": "0c030baf-0712-4cca-9bc4-47ca49d82aad",
+        "id": "c9ef4123-f5ad-4c71-9b8a-e21cf13540ae",
         "name": "Nico Williams",
         "rating": 86,
         "position": "LM",
@@ -1037,7 +1037,7 @@
         }
     },
     {
-        "id": "95b9e1e4-6779-44b5-98cb-c16464f550cf",
+        "id": "c8405b97-763b-4323-a05c-820123d28c9d",
         "name": "Rúben Dias",
         "rating": 86,
         "position": "CB",
@@ -1056,7 +1056,7 @@
         }
     },
     {
-        "id": "9e7779d3-791d-4ea5-92e7-74f4fc4982b4",
+        "id": "02027a7e-8016-424d-a9df-b5475f07383e",
         "name": "L. Messi",
         "rating": 86,
         "position": "RW",
@@ -1079,7 +1079,7 @@
         }
     },
     {
-        "id": "f135fd43-297c-419f-a2ca-dc93efe6e018",
+        "id": "0b36b5af-c6ca-429c-9c70-5d69a204c0e7",
         "name": "T. Reijnders",
         "rating": 86,
         "position": "CM",
@@ -1101,7 +1101,7 @@
         }
     },
     {
-        "id": "4ba96850-705b-4123-b738-7bd3dcb9c06b",
+        "id": "63549b9a-f0af-4714-b1bd-2df95adf802e",
         "name": "W. Pacho",
         "rating": 86,
         "position": "CB",
@@ -1120,7 +1120,7 @@
         }
     },
     {
-        "id": "21a1e421-6123-40c5-aaa6-baa03cde6568",
+        "id": "0cc40ca3-7e87-469f-b30e-ebdd7b95a886",
         "name": "S. Tonali",
         "rating": 86,
         "position": "CDM",
@@ -1141,7 +1141,7 @@
         }
     },
     {
-        "id": "164e2146-e05d-4679-9a8e-f91817717832",
+        "id": "4c63678b-8e3e-4b1b-8159-9fda4663e28b",
         "name": "Bruno Guimarães",
         "rating": 86,
         "position": "CM",
@@ -1162,7 +1162,7 @@
         }
     },
     {
-        "id": "dce7454b-eb1c-43d4-aafc-e285d465ade6",
+        "id": "fbc593ab-1d8b-4272-876c-dc58e464e88d",
         "name": "P. Dybala",
         "rating": 86,
         "position": "CAM",
@@ -1183,7 +1183,7 @@
         }
     },
     {
-        "id": "07f4bbe7-c908-4d3d-8fe2-d00a78e84c6f",
+        "id": "a3f37db6-a1a5-4db4-b51c-c67cd857845a",
         "name": "M. ter Stegen",
         "rating": 86,
         "position": "GK",
@@ -1202,7 +1202,7 @@
         }
     },
     {
-        "id": "2e927e04-1c21-4164-96d6-a7149c8af445",
+        "id": "80638634-88b0-4449-ae06-c856d25828b2",
         "name": "H. Çalhanoğlu",
         "rating": 86,
         "position": "CDM",
@@ -1223,7 +1223,7 @@
         }
     },
     {
-        "id": "b8e0007a-6817-4a2d-ac52-4f6d691dae4a",
+        "id": "6f395133-6846-41e6-a34c-b2466ff38354",
         "name": "M. Olise",
         "rating": 86,
         "position": "RM",
@@ -1244,7 +1244,7 @@
         }
     },
     {
-        "id": "43cd1b00-e4ad-41f2-be7c-91ed8bd9da20",
+        "id": "176c6953-46f9-4e7e-9ee4-ee8b839854a8",
         "name": "G. Kobel",
         "rating": 86,
         "position": "GK",
@@ -1263,7 +1263,7 @@
         }
     },
     {
-        "id": "b536880c-648a-4092-a1ba-0c3585937f5c",
+        "id": "30e4601e-470b-48c3-b0a7-b8e9f20c4446",
         "name": "T. Alexander-Arnold",
         "rating": 86,
         "position": "RB",
@@ -1284,7 +1284,7 @@
         }
     },
     {
-        "id": "8606c78e-126e-46fc-9c52-0c7ea2a12f41",
+        "id": "7e30c79b-34fc-478f-9e23-36c146052056",
         "name": "A. Rüdiger",
         "rating": 86,
         "position": "CB",
@@ -1303,7 +1303,7 @@
         }
     },
     {
-        "id": "44573e8f-0397-41c3-b398-36f5243baa68",
+        "id": "4f941948-feda-4901-a201-09c4ff6bc1ae",
         "name": "Nuno Mendes",
         "rating": 86,
         "position": "LB",
@@ -1324,7 +1324,7 @@
         }
     },
     {
-        "id": "b253c337-9ab9-4c97-b0e4-28f03b8b1820",
+        "id": "ea869e80-98bd-4982-b067-0280b0facdfc",
         "name": "João Neves",
         "rating": 85,
         "position": "CM",
@@ -1345,7 +1345,7 @@
         }
     },
     {
-        "id": "6dba8371-594e-4291-b160-9de03ee166e0",
+        "id": "6911f7fa-368a-49f9-8d41-0b96728c615c",
         "name": "R. Gravenberch",
         "rating": 85,
         "position": "CDM",
@@ -1366,7 +1366,7 @@
         }
     },
     {
-        "id": "ecd1124f-de00-43ce-b76c-aebe1b1933c4",
+        "id": "c3cbeb0f-b95d-4b42-9c42-ade1ea3277ac",
         "name": "G. Xhaka",
         "rating": 85,
         "position": "CDM",
@@ -1387,7 +1387,7 @@
         }
     },
     {
-        "id": "65e8b1b4-d9d4-4371-b95f-f20435fe7970",
+        "id": "4cc20094-a894-4c11-a025-851d3426ad6a",
         "name": "Ederson",
         "rating": 85,
         "position": "GK",
@@ -1406,7 +1406,7 @@
         }
     },
     {
-        "id": "66a5f11b-6567-41a8-8799-e82524f54cb1",
+        "id": "2dff8d18-fa3e-43e9-98f8-efd8a6ab9063",
         "name": "Unai Simón",
         "rating": 85,
         "position": "GK",
@@ -1425,7 +1425,7 @@
         }
     },
     {
-        "id": "c897e201-04f6-4a13-9486-05c04bb98582",
+        "id": "221f6a58-e064-4541-a746-dbb9eb121f07",
         "name": "P. Schick",
         "rating": 85,
         "position": "ST",
@@ -1444,7 +1444,7 @@
         }
     },
     {
-        "id": "7e4c2e3a-3223-4f36-bc3c-89ffbb3ce753",
+        "id": "7643494a-ef5f-4d50-95bd-6dd028037c43",
         "name": "S. McTominay",
         "rating": 85,
         "position": "CM",
@@ -1466,7 +1466,7 @@
         }
     },
     {
-        "id": "6b618385-aece-4ea3-999b-587a6ef44ba3",
+        "id": "432713c2-af97-4a28-9204-85a17321634c",
         "name": "F. Dimarco",
         "rating": 85,
         "position": "LB",
@@ -1487,7 +1487,7 @@
         }
     },
     {
-        "id": "0a1da82a-4bd2-4db6-a69a-60baff94dfa8",
+        "id": "6f0205c8-c634-48d9-915b-cc81424a963c",
         "name": "Carvajal",
         "rating": 85,
         "position": "RB",
@@ -1508,7 +1508,7 @@
         }
     },
     {
-        "id": "aed6344f-601f-4c6b-a6c8-2baeab0677ea",
+        "id": "7ff636e5-bfec-4068-b40e-e9b229cb0c62",
         "name": "H. Son",
         "rating": 85,
         "position": "LW",
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "id": "af7ae1fe-d09d-4640-b013-65c494c31e42",
+        "id": "7e7213c4-2784-4739-be1a-b64859bb0cad",
         "name": "B. Mbeumo",
         "rating": 85,
         "position": "RW",
@@ -1552,7 +1552,7 @@
         }
     },
     {
-        "id": "04d79e53-7f53-4914-af96-316bbad44831",
+        "id": "62de079a-1d92-4ac3-8077-205a8815eac0",
         "name": "Y. Tielemans",
         "rating": 85,
         "position": "CM",
@@ -1574,7 +1574,7 @@
         }
     },
     {
-        "id": "08c8c31c-6c3c-4a8c-b7a8-16739c1d17c9",
+        "id": "fa3885b4-7080-4e02-bc35-a5343c7f92aa",
         "name": "Fabián Ruiz",
         "rating": 85,
         "position": "CM",
@@ -1595,7 +1595,7 @@
         }
     },
     {
-        "id": "d3e170f8-7ac8-41d6-a95e-fe2d5e1a4651",
+        "id": "724fce37-8290-4064-b522-225edcd3814d",
         "name": "Rodrygo",
         "rating": 85,
         "position": "RW",
@@ -1617,7 +1617,7 @@
         }
     },
     {
-        "id": "217f0fd2-2adc-4f7a-9652-88145031c97a",
+        "id": "c7237b68-0233-4120-9d7e-4b72712505af",
         "name": "D. Doué",
         "rating": 85,
         "position": "RW",
@@ -1640,7 +1640,7 @@
         }
     },
     {
-        "id": "1c1d7337-e8ad-4fca-bc36-50a1bf252c75",
+        "id": "b2fdfbad-4393-48ac-acd6-ce1c4c5ad36a",
         "name": "M. Thuram",
         "rating": 85,
         "position": "ST",
@@ -1659,7 +1659,7 @@
         }
     },
     {
-        "id": "489717a0-1dce-4d40-b9b9-50942fdf709f",
+        "id": "c7de85aa-b822-470d-a50c-f6a23ebb3a93",
         "name": "P. Foden",
         "rating": 85,
         "position": "RW",
@@ -1682,7 +1682,7 @@
         }
     },
     {
-        "id": "00d6b360-2437-4f13-92d9-237efa45dc87",
+        "id": "e61a7ec5-3aa2-43ce-ae84-4da9506e0df6",
         "name": "K. Benzema",
         "rating": 85,
         "position": "ST",
@@ -1703,7 +1703,7 @@
         }
     },
     {
-        "id": "004f1039-8798-4f48-827f-c0b698df4e9f",
+        "id": "352a4323-5b3b-400d-80c9-cd0913927662",
         "name": "Cristiano Ronaldo",
         "rating": 85,
         "position": "ST",
@@ -1722,7 +1722,7 @@
         }
     },
     {
-        "id": "fae82659-762e-4acd-b0d5-a2938294b352",
+        "id": "a75fb99b-fefa-4b46-b05c-4cfa7c4e83a1",
         "name": "De Gea",
         "rating": 85,
         "position": "GK",
@@ -1741,7 +1741,7 @@
         }
     },
     {
-        "id": "6ac95f1d-2b59-4644-b1ac-f4a08eb878f9",
+        "id": "51e6a6d7-4700-4f31-b46e-96f2ea34750c",
         "name": "L. Díaz",
         "rating": 85,
         "position": "LM",
@@ -1763,7 +1763,7 @@
         }
     },
     {
-        "id": "eb63539c-4761-4870-ba6a-6820f62632ad",
+        "id": "926e0352-b7d8-47db-b327-1534d211e242",
         "name": "Bremer",
         "rating": 85,
         "position": "CB",
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "id": "0703e5ef-095d-47cc-9335-712a30e8dc59",
+        "id": "2049b66e-ad06-4a25-bd39-4ff80d61ca76",
         "name": "Dani Olmo",
         "rating": 85,
         "position": "CAM",
@@ -1804,7 +1804,7 @@
         }
     },
     {
-        "id": "865ccd97-84ff-4802-b6be-331413931fe3",
+        "id": "c2cbf171-16d0-48e6-b683-fed14cc0499d",
         "name": "Iñigo Martínez",
         "rating": 85,
         "position": "CB",
@@ -1823,7 +1823,7 @@
         }
     },
     {
-        "id": "7fbd6e69-2126-42b0-8fcf-e74d33a25216",
+        "id": "204c2b22-99fc-422d-be26-381887ee7520",
         "name": "D. Upamecano",
         "rating": 85,
         "position": "CB",
@@ -1842,7 +1842,7 @@
         }
     },
     {
-        "id": "f154f07c-eb3a-41f0-8c39-dde202884fe8",
+        "id": "6906e5bd-2316-42c9-bb8a-e1deebf193e3",
         "name": "P. Gulácsi",
         "rating": 85,
         "position": "GK",
@@ -1861,7 +1861,7 @@
         }
     },
     {
-        "id": "40966766-4ef7-4fef-897b-918b4bc8150d",
+        "id": "44e2ac90-09d4-41ae-8e18-c14343e19fcf",
         "name": "N. Schlotterbeck",
         "rating": 85,
         "position": "CB",
@@ -1880,7 +1880,7 @@
         }
     },
     {
-        "id": "5e08ebeb-7c42-436f-8a6f-9b037d235ba3",
+        "id": "8e2bf9de-1eaa-4b6e-8269-6744df1063ef",
         "name": "N. Kanté",
         "rating": 85,
         "position": "CDM",
@@ -1901,7 +1901,7 @@
         }
     },
     {
-        "id": "a1639ef2-b4c6-4299-92c1-fe6b92ca61be",
+        "id": "118a5783-0a5e-4be6-b052-78e6f0b0af38",
         "name": "E. Martínez",
         "rating": 85,
         "position": "GK",
@@ -1920,7 +1920,7 @@
         }
     },
     {
-        "id": "a928b8ad-9881-449f-989f-d7740d4093db",
+        "id": "29e17be1-eb6a-4a98-a921-90e6179ac6f0",
         "name": "A. Griezmann",
         "rating": 85,
         "position": "ST",
@@ -1942,7 +1942,7 @@
         }
     },
     {
-        "id": "e2167458-edeb-4b2b-b561-611dafa19b73",
+        "id": "44bd00be-e8de-4627-a66b-c69e29fa7613",
         "name": "Vivian",
         "rating": 84,
         "position": "CB",
@@ -1961,7 +1961,7 @@
         }
     },
     {
-        "id": "422cc12a-552f-4d83-9da5-0f8bc5b850eb",
+        "id": "fd823edd-ff9c-4d28-a78a-a13eb7719610",
         "name": "X. Simons",
         "rating": 84,
         "position": "CAM",
@@ -1983,7 +1983,7 @@
         }
     },
     {
-        "id": "1ceb3dc3-f434-422d-b4f0-90f1fa62174c",
+        "id": "75ccad3c-6b35-4156-9e66-cafb5d611a92",
         "name": "M. Zaccagni",
         "rating": 84,
         "position": "LM",
@@ -2004,7 +2004,7 @@
         }
     },
     {
-        "id": "79632ede-5dae-4354-8cf9-db29726adf8e",
+        "id": "ca3ea33c-20f5-496e-abaa-74f87d7f2d53",
         "name": "C. Pulisic",
         "rating": 84,
         "position": "RW",
@@ -2026,7 +2026,7 @@
         }
     },
     {
-        "id": "18feb246-a2d3-4549-b851-70ee2e238ed0",
+        "id": "75da91b0-b289-489a-b3a8-bc9a733e9829",
         "name": "M. Diaby",
         "rating": 84,
         "position": "RM",
@@ -2047,7 +2047,7 @@
         }
     },
     {
-        "id": "6033a9ae-69f9-4d27-8643-fe8a83841511",
+        "id": "1fda6786-a6a1-4c97-acc8-24187ef5ebd6",
         "name": "E. Fernández",
         "rating": 84,
         "position": "CM",
@@ -2069,7 +2069,7 @@
         }
     },
     {
-        "id": "22bfa44f-e00c-4a09-84a2-f9b0fdcc273d",
+        "id": "f7c45991-1075-4c87-8c3f-b874b5603382",
         "name": "Marcos Llorente",
         "rating": 84,
         "position": "RB",
@@ -2091,7 +2091,7 @@
         }
     },
     {
-        "id": "e077b98e-b277-4ce9-91cd-0b603b39a8e4",
+        "id": "afcc3a5d-a304-4b00-8f65-2f7940c849d4",
         "name": "Diogo Costa",
         "rating": 84,
         "position": "GK",
@@ -2110,7 +2110,7 @@
         }
     },
     {
-        "id": "37cf0948-bba4-4ffa-8528-071c611f9220",
+        "id": "983d5153-f002-4577-b49f-c804a192b09d",
         "name": "A. Davies",
         "rating": 84,
         "position": "LB",
@@ -2131,7 +2131,7 @@
         }
     },
     {
-        "id": "0d045f0f-22c0-4b33-909f-268b22d65165",
+        "id": "47c11995-a170-416c-9827-a5e4ddf44eb4",
         "name": "M. Neuer",
         "rating": 84,
         "position": "GK",
@@ -2150,7 +2150,7 @@
         }
     },
     {
-        "id": "2ad1e450-76b3-4886-9c11-1c05e310339a",
+        "id": "f6aec39d-5fc9-49d9-8f46-a80283ee8930",
         "name": "M. Carnesecchi",
         "rating": 84,
         "position": "GK",
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "id": "03eb4a90-2bca-49a5-8f2a-2df768cf24cc",
+        "id": "274cd236-07db-4733-beb8-34c6a5bede67",
         "name": "Sancet",
         "rating": 84,
         "position": "CAM",
@@ -2191,7 +2191,7 @@
         }
     },
     {
-        "id": "709e988e-5588-46e7-8404-4df087dc3eaa",
+        "id": "47933b86-55ef-4439-873b-988318b05583",
         "name": "E. Palacios",
         "rating": 84,
         "position": "CM",
@@ -2212,7 +2212,7 @@
         }
     },
     {
-        "id": "2b72d0ae-ebfe-427a-b32d-76f15afbb285",
+        "id": "f52ad467-19d2-4b1d-8262-fe501ef86e81",
         "name": "S. Milinković-Savić",
         "rating": 84,
         "position": "CM",
@@ -2234,7 +2234,7 @@
         }
     },
     {
-        "id": "1c8bcb95-8282-4ecc-8998-7eda7f07431b",
+        "id": "126a6c4a-4b37-495e-850e-2e07775c76ff",
         "name": "J. Maddison",
         "rating": 84,
         "position": "CM",
@@ -2255,7 +2255,7 @@
         }
     },
     {
-        "id": "643bd3f4-aec8-4eb1-8a5f-87988dbdf7f9",
+        "id": "813e9b41-c6b5-4205-9c76-3d3fc062c919",
         "name": "Rafael Leão",
         "rating": 84,
         "position": "LW",
@@ -2276,7 +2276,7 @@
         }
     },
     {
-        "id": "9eb21392-2293-44a5-bec6-360c5866d6e1",
+        "id": "39a877ae-8384-40fd-868c-d07485808b29",
         "name": "A. Tchouaméni",
         "rating": 84,
         "position": "CDM",
@@ -2298,7 +2298,7 @@
         }
     },
     {
-        "id": "2d5b2629-57ad-4c34-bcb6-26af1b4f89ca",
+        "id": "84484254-d1b7-4f1a-a1ef-d15d7d12f31e",
         "name": "Éder Militão",
         "rating": 84,
         "position": "CB",
@@ -2317,7 +2317,7 @@
         }
     },
     {
-        "id": "64ba3562-8a55-456f-85b0-c1bda0496697",
+        "id": "16fd6345-659e-4b4a-be7a-55657c01a595",
         "name": "R. De Paul",
         "rating": 84,
         "position": "CM",
@@ -2339,7 +2339,7 @@
         }
     },
     {
-        "id": "9027e157-7e7d-4aa2-829c-4afd8a126742",
+        "id": "782b12c3-828c-4798-a6d5-28f9decbf7e2",
         "name": "Bernardo Silva",
         "rating": 84,
         "position": "CM",
@@ -2362,7 +2362,7 @@
         }
     },
     {
-        "id": "f8feb1d6-e97b-4f10-8e90-7e65162b49d0",
+        "id": "53e2f4e6-ab77-40d4-b03a-59f51aa39d92",
         "name": "Grimaldo",
         "rating": 84,
         "position": "LM",
@@ -2384,7 +2384,7 @@
         }
     },
     {
-        "id": "99387ff1-e51e-42bf-8b76-8332a8d5afca",
+        "id": "632cf312-cb65-41e4-9542-07b9a1064166",
         "name": "João Cancelo",
         "rating": 84,
         "position": "RB",
@@ -2406,7 +2406,7 @@
         }
     },
     {
-        "id": "60ed681c-7868-4d22-8c84-d5a850ea8845",
+        "id": "2c4307aa-65a2-4334-8844-d0859c346a95",
         "name": "B. Barcola",
         "rating": 84,
         "position": "LW",
@@ -2428,7 +2428,7 @@
         }
     },
     {
-        "id": "094d4476-f872-4817-affa-07d68a0feaf3",
+        "id": "1e8f942f-af25-43be-b656-f1db5b5993f7",
         "name": "J. Pickford",
         "rating": 84,
         "position": "GK",
@@ -2447,7 +2447,7 @@
         }
     },
     {
-        "id": "fe7cdd14-f544-416b-b7a2-2c03cf93cfc8",
+        "id": "ac18644c-8fcd-45d3-b2b1-0c9e4a5977d8",
         "name": "T. Hernández",
         "rating": 84,
         "position": "LB",
@@ -2468,7 +2468,7 @@
         }
     },
     {
-        "id": "649bcc4f-5456-4f5b-ac78-e969a5e1e229",
+        "id": "ab988187-ec1a-4d4a-b658-500ee867b72f",
         "name": "J. Gvardiol",
         "rating": 84,
         "position": "LB",
@@ -2490,7 +2490,7 @@
         }
     },
     {
-        "id": "4e7eb8b4-34d3-4e3a-9615-cb29d12a62a2",
+        "id": "f84dafd1-0a50-424a-9869-1a8bed536df0",
         "name": "Álex Baena",
         "rating": 84,
         "position": "LM",
@@ -2512,7 +2512,7 @@
         }
     },
     {
-        "id": "cb3c9380-930b-46e0-bd70-23e8b0070211",
+        "id": "4757da75-e9a0-4c06-acfa-0574ef081329",
         "name": "Rúben Neves",
         "rating": 84,
         "position": "CDM",
@@ -2533,7 +2533,7 @@
         }
     },
     {
-        "id": "00b55ec7-8ded-470f-8976-54a4278039fd",
+        "id": "c3a440cb-d7d4-4a95-9ee7-d72d487dbc2d",
         "name": "G. Mamardashvili",
         "rating": 84,
         "position": "GK",
@@ -2552,7 +2552,7 @@
         }
     },
     {
-        "id": "39ca5069-722c-4127-aeaa-c8f15ac762e5",
+        "id": "cde3b0fb-8b9a-4273-9b28-5d38b3b7d00a",
         "name": "A. Sørloth",
         "rating": 84,
         "position": "ST",
@@ -2574,7 +2574,7 @@
         }
     },
     {
-        "id": "b6bc18bc-d619-4a8d-8b4b-e712b7dd91a1",
+        "id": "117be15d-8a13-4944-b1bc-c6549b2f2433",
         "name": "Marc Cucurella",
         "rating": 84,
         "position": "LB",
@@ -2593,7 +2593,7 @@
         }
     },
     {
-        "id": "74e8e0a1-60c8-4714-891e-6de2245d8bed",
+        "id": "bf1ae294-8000-4157-82e4-4b891a635fa9",
         "name": "O. Watkins",
         "rating": 84,
         "position": "ST",
@@ -2612,7 +2612,7 @@
         }
     },
     {
-        "id": "4652ad58-c6e5-4c7b-b30c-6c73b5599fa9",
+        "id": "4c99b239-6049-4879-a528-dc61fe691e8a",
         "name": "M. Locatelli",
         "rating": 84,
         "position": "CDM",
@@ -2633,7 +2633,7 @@
         }
     },
     {
-        "id": "a3fff746-3ebd-4da7-9434-54d02be2e7c0",
+        "id": "8536a423-b12f-4184-ac2c-a96677039a10",
         "name": "Isco",
         "rating": 84,
         "position": "CAM",
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "id": "45fcdb01-a079-441a-85cc-bef76847632f",
+        "id": "7fdbe829-ba55-4f0d-8d2a-ef1882820b2b",
         "name": "S. de Vrij",
         "rating": 84,
         "position": "CB",
@@ -2674,7 +2674,7 @@
         }
     },
     {
-        "id": "01d1a967-27bc-4787-a91b-bc55b02ff596",
+        "id": "ed8b6da2-8fb3-42b3-92d7-51f40a66bd03",
         "name": "R. Mahrez",
         "rating": 84,
         "position": "RM",
@@ -2695,7 +2695,7 @@
         }
     },
     {
-        "id": "a664a601-ae5b-4306-b7d4-a2df36023996",
+        "id": "d822eccf-e84a-4d00-923e-7a037cbd4d11",
         "name": "W. Orban",
         "rating": 84,
         "position": "CB",
@@ -2714,7 +2714,7 @@
         }
     },
     {
-        "id": "a79f89ee-20b1-4f25-81f4-d19154b78235",
+        "id": "fd0437a5-3a4c-4ac5-b84f-90667b90939d",
         "name": "B. Pavard",
         "rating": 84,
         "position": "CB",
@@ -2733,7 +2733,7 @@
         }
     },
     {
-        "id": "d6e42c58-63c5-44f1-870b-b189aa4794c9",
+        "id": "2efa696c-b1e0-408e-9a9d-2e1f2bd3f840",
         "name": "R. Lukaku",
         "rating": 84,
         "position": "ST",
@@ -2752,7 +2752,7 @@
         }
     },
     {
-        "id": "01e9005a-b830-41e5-b09a-520f8319f642",
+        "id": "916587aa-2ff6-450b-887b-d54e1ec43c9c",
         "name": "W. Szczęsny",
         "rating": 84,
         "position": "GK",
@@ -2771,7 +2771,7 @@
         }
     },
     {
-        "id": "b71bbd19-b8cb-40f3-a2ad-cfe8260ec7a7",
+        "id": "23105da4-78ae-45d0-ac34-38f6e6fd47af",
         "name": "A. Lookman",
         "rating": 84,
         "position": "ST",
@@ -2792,7 +2792,7 @@
         }
     },
     {
-        "id": "78f1901a-609a-4715-bbb9-6000b9380448",
+        "id": "3d97ccc2-d588-43de-8397-4ec333d130d1",
         "name": "F. Acerbi",
         "rating": 84,
         "position": "CB",
@@ -2811,7 +2811,7 @@
         }
     },
     {
-        "id": "5167266b-0dd8-48bb-a220-ba7417753d8a",
+        "id": "2dedd351-f511-4425-ab0a-f42e2bba16ec",
         "name": "D. Dumfries",
         "rating": 84,
         "position": "RB",
@@ -2832,7 +2832,7 @@
         }
     },
     {
-        "id": "edb70ffc-3ad3-4b54-94a4-3a4295d3b583",
+        "id": "9cfa26ce-5302-4a7a-bd86-658eed6dba89",
         "name": "C. Gakpo",
         "rating": 84,
         "position": "LM",
@@ -2853,7 +2853,7 @@
         }
     },
     {
-        "id": "f0a9878d-3141-4310-b865-ca3f8cce22f9",
+        "id": "2accf80a-861a-4005-ac39-ceea7b63256a",
         "name": "O. Marmoush",
         "rating": 84,
         "position": "ST",
@@ -2875,7 +2875,7 @@
         }
     },
     {
-        "id": "b8f150c6-d81c-486f-9d01-784c8b56eb01",
+        "id": "95b61e09-357d-4b3f-8709-755e6fdd35f0",
         "name": "D. Hancko",
         "rating": 83,
         "position": "CB",
@@ -2897,7 +2897,7 @@
         }
     },
     {
-        "id": "d92c97db-19b6-4168-8145-01670e83c7cd",
+        "id": "867f44b1-bb25-4aba-869c-38b5874567ca",
         "name": "M. Retegui",
         "rating": 83,
         "position": "ST",
@@ -2916,7 +2916,7 @@
         }
     },
     {
-        "id": "8b2bd564-f327-41d5-b641-6256b88d9bfa",
+        "id": "512718eb-1063-4eb2-8c4b-29bc213ad6cc",
         "name": "L. Chevalier",
         "rating": 83,
         "position": "GK",
@@ -2935,7 +2935,7 @@
         }
     },
     {
-        "id": "d0351b42-e7c3-4b70-a9f6-6b1d3a8c95d7",
+        "id": "2bef1369-c478-4294-81c9-0f5cddf26de1",
         "name": "A. Dovbyk",
         "rating": 83,
         "position": "ST",
@@ -2954,7 +2954,7 @@
         }
     },
     {
-        "id": "5945e67a-a1bd-48e1-9c3c-777b1d652143",
+        "id": "58bfcbb3-b113-4ea3-a522-5af32792a790",
         "name": "M. Kean",
         "rating": 83,
         "position": "ST",
@@ -2973,7 +2973,7 @@
         }
     },
     {
-        "id": "4c0fef99-75b8-4b13-a000-844cbdf462de",
+        "id": "d416ca62-e249-4e24-b69a-a9842b89d5b5",
         "name": "H. Ekitiké",
         "rating": 83,
         "position": "ST",
@@ -2994,7 +2994,7 @@
         }
     },
     {
-        "id": "b6be2e91-acbf-47ae-b654-2790c19fb242",
+        "id": "031ff598-0e5c-4c86-8090-bf954cca3408",
         "name": "Gavi",
         "rating": 83,
         "position": "CM",
@@ -3015,7 +3015,7 @@
         }
     },
     {
-        "id": "6d0523a1-626f-45c5-a4e8-c56ae913dac3",
+        "id": "2e3a3882-0d87-4210-8bc4-6b09a9231e2b",
         "name": "A. Rrahmani",
         "rating": 83,
         "position": "CB",
@@ -3034,7 +3034,7 @@
         }
     },
     {
-        "id": "59ea01c4-fc0f-435e-84af-82e261647eb1",
+        "id": "a48f8e0d-3b93-4da9-9d71-f891b7af646a",
         "name": "R. Araujo",
         "rating": 83,
         "position": "CB",
@@ -3055,7 +3055,7 @@
         }
     },
     {
-        "id": "6c3dd799-5f44-40a3-be95-31cafd3652bb",
+        "id": "04b88781-1de6-471f-8b42-869b040ef6fd",
         "name": "Aleix García",
         "rating": 83,
         "position": "CM",
@@ -3076,7 +3076,7 @@
         }
     },
     {
-        "id": "0ac3508c-e20a-47b9-8db2-bc84147f16c9",
+        "id": "6617e8c7-2cce-48f6-8ddc-f3743ac096f6",
         "name": "L. Modrić",
         "rating": 83,
         "position": "CM",
@@ -3098,7 +3098,7 @@
         }
     },
     {
-        "id": "48f5c7c9-8167-48eb-a2fb-c79be8221239",
+        "id": "0ff5d502-e39b-4413-b58e-045d659ab58a",
         "name": "E. Camavinga",
         "rating": 83,
         "position": "CM",
@@ -3120,7 +3120,7 @@
         }
     },
     {
-        "id": "23bcbf12-e5f6-45a6-b68d-39ce24afba27",
+        "id": "31fadfd0-d844-45d3-b050-526fb18705e8",
         "name": "Mikel Merino",
         "rating": 83,
         "position": "CM",
@@ -3141,7 +3141,7 @@
         }
     },
     {
-        "id": "401eb3b9-9d63-4781-9513-75000121a623",
+        "id": "d7d20141-8e78-4619-8d5c-21fdaacc421b",
         "name": "Joan García",
         "rating": 83,
         "position": "GK",
@@ -3160,7 +3160,7 @@
         }
     },
     {
-        "id": "8386a638-eb3e-470d-903a-3de5de111de2",
+        "id": "ec3f62d9-9512-4c6e-811a-01e4ad85b56d",
         "name": "M. Kovačić",
         "rating": 83,
         "position": "CM",
@@ -3182,7 +3182,7 @@
         }
     },
     {
-        "id": "0afc7abb-9169-4a78-8952-b10a70017ec7",
+        "id": "fdf8993b-3a25-4b76-b6e1-b76da614e6b3",
         "name": "L. Torreira",
         "rating": 83,
         "position": "CDM",
@@ -3203,7 +3203,7 @@
         }
     },
     {
-        "id": "f541a4a7-7c55-4437-b043-e6d604255bc5",
+        "id": "7fda81af-4a4b-4470-8a4a-9fc23dbacb53",
         "name": "Pedro Gonçalves",
         "rating": 83,
         "position": "CAM",
@@ -3225,7 +3225,7 @@
         }
     },
     {
-        "id": "c47fcc5d-50ed-464d-a68a-022a57ea957d",
+        "id": "086d943d-0c99-4b98-8147-d195eeddae72",
         "name": "Murillo",
         "rating": 83,
         "position": "CB",
@@ -3244,7 +3244,7 @@
         }
     },
     {
-        "id": "a08c36d5-9454-4f90-a90f-e7208d0df11c",
+        "id": "7e8dcfdf-f2f7-4b1e-9af3-8d119844c3fc",
         "name": "D. Kulusevski",
         "rating": 83,
         "position": "CM",
@@ -3266,7 +3266,7 @@
         }
     },
     {
-        "id": "25c5180f-e096-4a12-8533-217d9f519d62",
+        "id": "aadbf9cb-9b76-4ad8-90c0-019cf220320b",
         "name": "D. Szoboszlai",
         "rating": 83,
         "position": "CAM",
@@ -3287,7 +3287,7 @@
         }
     },
     {
-        "id": "659c12f4-4208-4405-ad9d-1e90a4e20b50",
+        "id": "4916a937-cb34-471e-9ecf-b526ec7ab87a",
         "name": "Iago Aspas",
         "rating": 83,
         "position": "RW",
@@ -3309,7 +3309,7 @@
         }
     },
     {
-        "id": "3b998e74-6814-466b-b9be-83526138ae86",
+        "id": "03ce17d8-0c67-41b1-a095-8b5cbd4aadda",
         "name": "J. Brandt",
         "rating": 83,
         "position": "CAM",
@@ -3330,7 +3330,7 @@
         }
     },
     {
-        "id": "dc239f36-7e92-493d-ae2d-a7a5a79d6c97",
+        "id": "7ca60aa4-362d-4ef0-a97e-4385b3d4741c",
         "name": "J. Giménez",
         "rating": 83,
         "position": "CB",
@@ -3349,7 +3349,7 @@
         }
     },
     {
-        "id": "f7bac54a-8eb0-40b9-bc9c-a36e0a619abd",
+        "id": "b15efa04-c0cb-40fe-a07e-edbfadaad145",
         "name": "L. Openda",
         "rating": 83,
         "position": "ST",
@@ -3368,7 +3368,7 @@
         }
     },
     {
-        "id": "9c81c326-eb4a-4b51-b09f-bee1b8cc0b01",
+        "id": "661f65cc-f4e0-443f-95cb-9eba97b8a6de",
         "name": "S. Lobotka",
         "rating": 83,
         "position": "CM",
@@ -3389,7 +3389,7 @@
         }
     },
     {
-        "id": "a1612876-cc95-4647-a557-69fc6df662db",
+        "id": "a9a84669-9a87-4d09-b648-ab3a54085607",
         "name": "J. Bowen",
         "rating": 83,
         "position": "RM",
@@ -3411,7 +3411,7 @@
         }
     },
     {
-        "id": "11146fa4-3527-4a95-8245-194007d065f0",
+        "id": "b1b32837-1abd-4c63-8412-8faced8360c4",
         "name": "M. Sels",
         "rating": 83,
         "position": "GK",
@@ -3430,7 +3430,7 @@
         }
     },
     {
-        "id": "e20fcb87-e3cf-4447-b189-86268b63bcff",
+        "id": "65a935ce-39c9-4f4f-af76-23ca97ac1800",
         "name": "Palhinha",
         "rating": 83,
         "position": "CDM",
@@ -3451,7 +3451,7 @@
         }
     },
     {
-        "id": "3456015d-587d-4316-9693-26997848803f",
+        "id": "cdc89b93-2d96-474e-afff-06f3d29845c9",
         "name": "A. Gordon",
         "rating": 83,
         "position": "LW",
@@ -3473,7 +3473,7 @@
         }
     },
     {
-        "id": "26a585e1-093c-4333-825c-9f7ae33877c1",
+        "id": "8dce61d8-1572-4247-bd92-2e0448efb744",
         "name": "L. Trossard",
         "rating": 83,
         "position": "LW",
@@ -3495,7 +3495,7 @@
         }
     },
     {
-        "id": "0488f3c8-8a26-4136-980d-676cb5fe2831",
+        "id": "72fac588-a464-4c06-8d9c-27a7b2e0b8ed",
         "name": "Ferran Torres",
         "rating": 83,
         "position": "LW",
@@ -3518,7 +3518,7 @@
         }
     },
     {
-        "id": "7fee75e2-a362-4966-9379-0e7fbb580c7d",
+        "id": "cefbc0c7-96d4-4440-839d-083a05b38df3",
         "name": "K. Coman",
         "rating": 83,
         "position": "LM",
@@ -3540,7 +3540,7 @@
         }
     },
     {
-        "id": "f06864b5-3420-4a11-9029-5bbacb80d6fb",
+        "id": "48d4ba57-794c-4940-9524-91c64d96ec31",
         "name": "R. Le Normand",
         "rating": 83,
         "position": "CB",
@@ -3559,7 +3559,7 @@
         }
     },
     {
-        "id": "94abf85d-3235-4357-8484-b06d89039175",
+        "id": "5f321a1c-94e4-48dd-8289-a69f8b0bab4d",
         "name": "P. Hincapié",
         "rating": 83,
         "position": "CB",
@@ -3581,7 +3581,7 @@
         }
     },
     {
-        "id": "27850ce1-a311-4c58-84f8-254c32c767fb",
+        "id": "dec72e78-f4cf-4dc2-9649-41d4516e5221",
         "name": "E. Eze",
         "rating": 83,
         "position": "CAM",
@@ -3603,7 +3603,7 @@
         }
     },
     {
-        "id": "c6cb5e69-2cfc-46a9-9970-d6907942d4aa",
+        "id": "6924aca1-3188-409a-b760-47213714be8e",
         "name": "B. Kamara",
         "rating": 83,
         "position": "CDM",
@@ -3624,7 +3624,7 @@
         }
     },
     {
-        "id": "db32a115-beef-4672-b00b-52021e21a3be",
+        "id": "82607cdd-be3a-4a97-a407-5f3ef02c7af1",
         "name": "Álex Remiro",
         "rating": 83,
         "position": "GK",
@@ -3643,7 +3643,7 @@
         }
     },
     {
-        "id": "0bb42bb0-a414-45f3-9abf-13fa977f4dcc",
+        "id": "4e3a46b3-12f3-4dfa-98fa-917d679f9850",
         "name": "Matheus Cunha",
         "rating": 83,
         "position": "CAM",
@@ -3665,7 +3665,7 @@
         }
     },
     {
-        "id": "1a895da9-c513-4165-8221-e2659284e7d9",
+        "id": "ed1dd3ac-9e6a-4056-9afa-e60d4a07caf2",
         "name": "T. Partey",
         "rating": 83,
         "position": "CDM",
@@ -3687,7 +3687,7 @@
         }
     },
     {
-        "id": "ac119520-6047-4faf-87a8-c0798d6f0134",
+        "id": "f9e23b9b-d183-4344-84b3-e6e9f2af9c0d",
         "name": "Ronaldo Cabrais",
         "rating": 83,
         "position": "CAM",
@@ -3709,7 +3709,7 @@
         }
     },
     {
-        "id": "4d33d845-e5c3-40a5-b544-e2e25dfe849f",
+        "id": "f2a94f87-1041-481e-a3fe-072d6b892c25",
         "name": "Balde",
         "rating": 83,
         "position": "LB",
@@ -3730,7 +3730,7 @@
         }
     },
     {
-        "id": "78fa661b-ab8f-4426-9702-85af5b77985d",
+        "id": "a0f20c5d-c656-4f9e-808a-654abbaae1ab",
         "name": "Ayoze",
         "rating": 83,
         "position": "ST",
@@ -3751,7 +3751,7 @@
         }
     },
     {
-        "id": "ab3d4c19-a59d-49d6-a918-53eb168e815d",
+        "id": "ac7e7454-85d1-428a-a563-ec0fd6fff6c5",
         "name": "N. Milenković",
         "rating": 83,
         "position": "CB",
@@ -3770,7 +3770,7 @@
         }
     },
     {
-        "id": "f19ca62f-653a-41c6-897a-6c0428fcff9b",
+        "id": "d9fd39c2-6207-42bf-b388-5a3e97773464",
         "name": "Zubimendi",
         "rating": 83,
         "position": "CDM",
@@ -3791,7 +3791,7 @@
         }
     },
     {
-        "id": "b6b9b8c1-63d7-48f5-a29b-0f16fe20ea10",
+        "id": "dfbf94c8-347e-479b-ab71-371e3452996b",
         "name": "B. White",
         "rating": 83,
         "position": "RB",
@@ -3810,7 +3810,7 @@
         }
     },
     {
-        "id": "3df57313-6a8c-4f2d-a564-a7f042855289",
+        "id": "1b0555de-b934-44ee-9e22-df952a10c1a4",
         "name": "A. Stiller",
         "rating": 83,
         "position": "CDM",
@@ -3831,7 +3831,7 @@
         }
     },
     {
-        "id": "413b7738-feaf-491b-a832-b894b707b13a",
+        "id": "187a762d-c1eb-4bee-8ada-b490641dbb15",
         "name": "J. Frimpong",
         "rating": 83,
         "position": "RB",
@@ -3853,7 +3853,7 @@
         }
     },
     {
-        "id": "c7aee34d-2531-4f0e-8012-6b2de6560aaf",
+        "id": "631986c6-618d-482b-bb3c-be947ab4b2df",
         "name": "G. Mancini",
         "rating": 83,
         "position": "CB",
@@ -3872,7 +3872,7 @@
         }
     },
     {
-        "id": "e9a5d8f0-2a80-43ae-a1d6-27f041c418a2",
+        "id": "e0a30bca-257e-4fd1-87b5-1c4101a2d6b8",
         "name": "O. Baumann",
         "rating": 83,
         "position": "GK",
@@ -3891,7 +3891,7 @@
         }
     },
     {
-        "id": "dad8f167-9fe4-4c1b-97ae-da43198daa07",
+        "id": "66d398e5-b58a-4a29-8ce0-d88eacdfcf81",
         "name": "H. Mkhitaryan",
         "rating": 83,
         "position": "CM",
@@ -3910,7 +3910,7 @@
         }
     },
     {
-        "id": "1999ba74-4985-4a7f-9c85-74c670d17e2e",
+        "id": "454de98c-c5ee-4d4f-9d9e-6e13a81e5582",
         "name": "G. Di Lorenzo",
         "rating": 83,
         "position": "RB",
@@ -3932,7 +3932,7 @@
         }
     },
     {
-        "id": "622ef408-772d-4da8-83e2-e8fd5cb1a84e",
+        "id": "4d2f7ca7-6822-4460-a6b8-6061cee3ebd1",
         "name": "S. Mané",
         "rating": 83,
         "position": "LM",
@@ -3955,7 +3955,7 @@
         }
     },
     {
-        "id": "c39fa800-5330-435b-ab46-b1b56a46114f",
+        "id": "25ee04ee-2f44-4fee-b85f-5e30624dab38",
         "name": "Iñaki Williams",
         "rating": 83,
         "position": "RM",
@@ -3977,7 +3977,7 @@
         }
     },
     {
-        "id": "65dde0e4-02d6-49b7-a210-8119deef9ed6",
+        "id": "62ea25b9-5608-413a-b209-b7e0415466d1",
         "name": "İ. Gündoğan",
         "rating": 83,
         "position": "CM",
@@ -3999,7 +3999,7 @@
         }
     },
     {
-        "id": "def16e9f-f6bd-41a7-a122-2816f19de05a",
+        "id": "f42c3c4f-d970-4c3f-8ab9-989a03acf2aa",
         "name": "M. Hjulmand",
         "rating": 83,
         "position": "CDM",
@@ -4020,7 +4020,7 @@
         }
     },
     {
-        "id": "66a26184-3b90-4796-b081-9422cebc8323",
+        "id": "e4d0345c-cd3d-42be-b5f7-0ac030ffc4e1",
         "name": "A. Rabiot",
         "rating": 83,
         "position": "CAM",
@@ -4041,7 +4041,7 @@
         }
     },
     {
-        "id": "50641acf-b6a2-4002-8868-bd19f9d11c0e",
+        "id": "ec9cbbd4-6f5a-40ff-ba3e-3bf3e36f3d13",
         "name": "N. Aké",
         "rating": 83,
         "position": "CB",
@@ -4063,7 +4063,7 @@
         }
     },
     {
-        "id": "71f258eb-8ba9-417f-ae47-d44b61147c07",
+        "id": "10b961b0-82f3-40e7-b6bf-b644342fcc69",
         "name": "T. Kubo",
         "rating": 82,
         "position": "RM",
@@ -4084,7 +4084,7 @@
         }
     },
     {
-        "id": "f362a3cf-9043-4987-9e0d-221c94164df0",
+        "id": "cc652109-612c-4019-ba55-9bac6e70685e",
         "name": "Rafa",
         "rating": 82,
         "position": "CAM",
@@ -4106,7 +4106,7 @@
         }
     },
     {
-        "id": "d00ae494-fea8-44b4-9b0b-96ba3ff14a4e",
+        "id": "acd5f680-4974-4837-a3c0-673da4bca838",
         "name": "A. Zambo Anguissa",
         "rating": 82,
         "position": "CM",
@@ -4127,7 +4127,7 @@
         }
     },
     {
-        "id": "6ba9efdf-9965-4ca3-9cbe-3647ab54cd79",
+        "id": "faa6c478-83dc-4eec-9f3c-fa8f9eb1f6bf",
         "name": "M. Rogers",
         "rating": 82,
         "position": "CAM",
@@ -4150,7 +4150,7 @@
         }
     },
     {
-        "id": "8791444a-72ce-4af2-a00d-de0c60bbc514",
+        "id": "e6f8d01b-54a5-415c-9862-c4ac9bfaeeb4",
         "name": "D. Raum",
         "rating": 82,
         "position": "LB",
@@ -4171,7 +4171,7 @@
         }
     },
     {
-        "id": "a664aeaf-a37f-4eac-a142-34d8ed70d874",
+        "id": "541c7b32-4597-4738-a3b5-b5a67bda2381",
         "name": "Joelinton",
         "rating": 82,
         "position": "CM",
@@ -4193,7 +4193,7 @@
         }
     },
     {
-        "id": "15e65030-b78a-4b9f-9dc1-d4d0dedcf039",
+        "id": "f8536a0f-24cc-46f1-8731-fbe5a1e3fdb0",
         "name": "L. Goretzka",
         "rating": 82,
         "position": "CM",
@@ -4215,7 +4215,7 @@
         }
     },
     {
-        "id": "90aa918c-4ed9-41fb-aa05-87f781430821",
+        "id": "a05e88e6-033a-446c-b03b-ecd360c77c45",
         "name": "K. Laimer",
         "rating": 82,
         "position": "RB",
@@ -4238,7 +4238,7 @@
         }
     },
     {
-        "id": "3ee8a734-4386-4867-b889-0af85a150b93",
+        "id": "e74e343e-210c-4687-9d95-27801345ded7",
         "name": "J. Mateta",
         "rating": 82,
         "position": "ST",
@@ -4257,7 +4257,7 @@
         }
     },
     {
-        "id": "1f3d1b3d-9756-4dc3-a6ab-2e8379539808",
+        "id": "2ea814cb-6927-48d0-9329-ad79893cb64e",
         "name": "J. David",
         "rating": 82,
         "position": "ST",
@@ -4276,7 +4276,7 @@
         }
     },
     {
-        "id": "1c49ae35-786e-4df9-a9b4-20825fb02bd5",
+        "id": "3f69f314-bebd-4f7a-b885-ad819cbfb80e",
         "name": "C. De Ketelaere",
         "rating": 82,
         "position": "CAM",
@@ -4298,7 +4298,7 @@
         }
     },
     {
-        "id": "bc540079-0c23-420f-b68d-c655025de248",
+        "id": "da1d54df-4a93-48cb-96a2-a14c56767ab3",
         "name": "M. Götze",
         "rating": 82,
         "position": "CM",
@@ -4321,7 +4321,7 @@
         }
     },
     {
-        "id": "53b9eb02-b2ad-4b81-a3a1-20e7fd27ff5f",
+        "id": "ab193bca-06d7-430a-bdbd-ff78ec5a3ee9",
         "name": "M. Guéhi",
         "rating": 82,
         "position": "CB",
@@ -4340,7 +4340,7 @@
         }
     },
     {
-        "id": "0290af7b-00b1-4d7f-b65b-51d4f1b78b1c",
+        "id": "4360070c-19cc-4f13-91e9-68cd36cb9274",
         "name": "S. Gnabry",
         "rating": 82,
         "position": "LM",
@@ -4363,7 +4363,7 @@
         }
     },
     {
-        "id": "dc0a29df-6a25-4f06-bdcc-1e7ff3b30854",
+        "id": "b9f78640-9373-4ad3-85e7-c4428418e8af",
         "name": "G. Vicario",
         "rating": 82,
         "position": "GK",
@@ -4382,7 +4382,7 @@
         }
     },
     {
-        "id": "d3320cfe-d32d-40db-ac08-4c0c17ade396",
+        "id": "51caf6e6-602e-4999-b1a4-6d5314ea0aaf",
         "name": "A. Buongiorno",
         "rating": 82,
         "position": "CB",
@@ -4401,7 +4401,7 @@
         }
     },
     {
-        "id": "f26922a9-334d-4c75-bfeb-962da54ded0c",
+        "id": "efebab2a-513b-4913-8514-84a0f937d1ac",
         "name": "W. Anton",
         "rating": 82,
         "position": "CB",
@@ -4420,7 +4420,7 @@
         }
     },
     {
-        "id": "8e1d1a7f-7285-4b52-83c1-2c104b6692b1",
+        "id": "97cc00a8-ee79-44b9-80ae-5cfb7513b5bf",
         "name": "D. Lukébakio",
         "rating": 82,
         "position": "RM",
@@ -4442,7 +4442,7 @@
         }
     },
     {
-        "id": "ee92400b-7e06-40d4-abd0-c4039b6d2020",
+        "id": "6efc8410-e054-4951-988e-0b6cb03c6b6c",
         "name": "A. Robinson",
         "rating": 82,
         "position": "LB",
@@ -4463,7 +4463,7 @@
         }
     },
     {
-        "id": "e9d4a95e-d627-4093-8f10-b6e560155860",
+        "id": "bcdcd18c-1e6d-4fcd-b10a-d861a753e8b9",
         "name": "R. Orsolini",
         "rating": 82,
         "position": "RM",
@@ -4484,7 +4484,7 @@
         }
     },
     {
-        "id": "4e8fd46d-2448-4584-bebd-b06522f5f978",
+        "id": "6dfe36fc-778a-4148-ad65-886cbeaa50e4",
         "name": "A. Budimir",
         "rating": 82,
         "position": "ST",
@@ -4503,7 +4503,7 @@
         }
     },
     {
-        "id": "25c953e4-9fd1-426e-a9ac-2d2cd498453e",
+        "id": "eafe8d8a-8f29-47dc-ade9-44532bf1bbb1",
         "name": "C. Romero",
         "rating": 82,
         "position": "CB",
@@ -4522,7 +4522,7 @@
         }
     },
     {
-        "id": "52d2bd0d-2855-4cfe-9082-2f0efedf2d80",
+        "id": "65545569-69eb-4482-a1a3-52dee59a8849",
         "name": "R. Koch",
         "rating": 82,
         "position": "CB",
@@ -4541,7 +4541,7 @@
         }
     },
     {
-        "id": "c5a19cb9-d1ef-4041-8626-e6f21dd8fc36",
+        "id": "2150a360-8377-497f-aa6e-7aa16b0df047",
         "name": "M. Mittelstädt",
         "rating": 82,
         "position": "LB",
@@ -4562,7 +4562,7 @@
         }
     },
     {
-        "id": "d78d349f-eded-40b8-8e05-ba111b316b6a",
+        "id": "7f2241e1-9cb3-4d88-ae56-9d0266c53972",
         "name": "V. Pavlidis",
         "rating": 82,
         "position": "ST",
@@ -4583,7 +4583,7 @@
         }
     },
     {
-        "id": "5b11efbd-090a-472b-a9ab-43dc12dea143",
+        "id": "e70b3d77-3e6c-41e1-a948-d532f20778b5",
         "name": "F. Schär",
         "rating": 82,
         "position": "CB",
@@ -4602,7 +4602,7 @@
         }
     },
     {
-        "id": "decd815d-0cfa-4097-874c-22211ccb400c",
+        "id": "59feb0f4-92a9-44bc-a910-90ab555a7522",
         "name": "Éderson",
         "rating": 82,
         "position": "CM",
@@ -4621,7 +4621,7 @@
         }
     },
     {
-        "id": "73fa437f-0c2c-4b73-8dbc-806ec1cf2c11",
+        "id": "00bc87ab-5456-4278-b85f-1c7f4a7d53c7",
         "name": "M. Gibbs-White",
         "rating": 82,
         "position": "CAM",
@@ -4642,7 +4642,7 @@
         }
     },
     {
-        "id": "d89c5b9e-9f91-4ee2-9c13-72f64d69ac5c",
+        "id": "e9798546-3fb6-4e10-82f4-65de02c767a7",
         "name": "I. Provedel",
         "rating": 82,
         "position": "GK",
@@ -4661,7 +4661,7 @@
         }
     },
     {
-        "id": "76e32e43-8ddb-48b2-95dc-15a6d786c130",
+        "id": "dc09023e-6412-4674-b38f-e458360ab8ba",
         "name": "G. Rulli",
         "rating": 82,
         "position": "GK",
@@ -4680,7 +4680,7 @@
         }
     },
     {
-        "id": "1b7a2a05-5aec-4e88-bd93-fa87df8d0bd8",
+        "id": "922349a7-3eb1-4e5d-bf6e-6581709c8fa5",
         "name": "D. Vlahović",
         "rating": 82,
         "position": "ST",
@@ -4699,7 +4699,7 @@
         }
     },
     {
-        "id": "d7a6659a-140a-4ef7-81fe-a05bb812cb9b",
+        "id": "ceade162-30a0-4066-874f-32421bebf79c",
         "name": "J. Timber",
         "rating": 82,
         "position": "RB",
@@ -4722,7 +4722,7 @@
         }
     },
     {
-        "id": "a38955cb-4b44-4801-b713-6010b316ccc6",
+        "id": "2b19b6fe-057d-4fbf-961b-02b99b3df10a",
         "name": "Pau Cubarsí",
         "rating": 82,
         "position": "CB",
@@ -4741,7 +4741,7 @@
         }
     },
     {
-        "id": "dff95f52-2c35-4eff-96b0-c7cd304d509d",
+        "id": "2d129787-b887-41ea-8623-d1bc4e36e405",
         "name": "L. Sané",
         "rating": 82,
         "position": "RM",
@@ -4763,7 +4763,7 @@
         }
     },
     {
-        "id": "7879ff84-120d-49b7-8660-e0fb757d0082",
+        "id": "b7ced980-2ef5-4799-9951-a7e650d13259",
         "name": "Fabinho",
         "rating": 82,
         "position": "CDM",
@@ -4784,7 +4784,7 @@
         }
     },
     {
-        "id": "730c42c9-7ce4-4f1b-b200-73c5c6b2c781",
+        "id": "5b59ee6f-5694-4ff4-a065-41e885259936",
         "name": "J. Stones",
         "rating": 82,
         "position": "CB",
@@ -4805,7 +4805,7 @@
         }
     },
     {
-        "id": "cc2cd9ec-4ef9-4a1c-82ca-e2a3f1a0f87a",
+        "id": "c09cb55c-dbff-4703-9f69-459f39fdef61",
         "name": "Oyarzabal",
         "rating": 82,
         "position": "ST",
@@ -4827,7 +4827,7 @@
         }
     },
     {
-        "id": "eb0ae5ae-8d5a-41b0-8a1f-aee41ff2232e",
+        "id": "f5960d07-aba5-4b4a-8c70-3cc3e03b39d4",
         "name": "Y. Bounou",
         "rating": 82,
         "position": "GK",
@@ -4846,7 +4846,7 @@
         }
     },
     {
-        "id": "55b425f6-3b4d-4876-9ebf-8b611bf367d8",
+        "id": "34c48512-9d90-44c2-beae-218893d77b5b",
         "name": "D. Sánchez",
         "rating": 82,
         "position": "CB",
@@ -4865,7 +4865,7 @@
         }
     },
     {
-        "id": "e78b1d41-af93-4fd0-ac24-b91cf2c7003c",
+        "id": "801fd5d1-8193-47e3-96e3-0950b4057106",
         "name": "Trincão",
         "rating": 82,
         "position": "CAM",
@@ -4888,7 +4888,7 @@
         }
     },
     {
-        "id": "ff475352-64c4-4948-855b-f50bc4a3974f",
+        "id": "20249664-9b97-438c-bfc6-ebdfbd28f878",
         "name": "Ibañez",
         "rating": 82,
         "position": "CB",
@@ -4907,7 +4907,7 @@
         }
     },
     {
-        "id": "e3551dc4-6192-4fa4-b05b-4cb11d87e450",
+        "id": "d341e9de-2363-4ac3-9f12-7a23fc5b239e",
         "name": "K. Havertz",
         "rating": 82,
         "position": "ST",
@@ -4929,7 +4929,7 @@
         }
     },
     {
-        "id": "79df37d3-7a51-4d91-94b8-651a1b926620",
+        "id": "7bd7288f-6dfa-4951-81dd-5472f3817137",
         "name": "A. Romagnoli",
         "rating": 82,
         "position": "CB",
@@ -4948,7 +4948,7 @@
         }
     },
     {
-        "id": "eec1cab8-78b3-4ddd-bc54-32930b67a7dc",
+        "id": "7af4ee1a-d1e2-4147-a0d0-1f68a95b7cfa",
         "name": "K. Mitoma",
         "rating": 82,
         "position": "LM",
@@ -4969,7 +4969,7 @@
         }
     },
     {
-        "id": "cd5be4fd-644f-448b-a4bc-362347ea406c",
+        "id": "feeb2069-9596-4cc7-83dd-e89443e89b35",
         "name": "S. Botman",
         "rating": 82,
         "position": "CB",
@@ -4988,7 +4988,7 @@
         }
     },
     {
-        "id": "ef9539c6-f455-4d09-92a0-d5955de6f915",
+        "id": "d69d54d0-f263-4e8c-ba50-cbb2208cedb0",
         "name": "K. Koulibaly",
         "rating": 82,
         "position": "CB",
@@ -5007,7 +5007,7 @@
         }
     },
     {
-        "id": "4ec1067f-c024-44e7-b277-84be289211fb",
+        "id": "03f91165-61e5-421d-bb9d-c96206983c91",
         "name": "N. Otamendi",
         "rating": 82,
         "position": "CB",
@@ -5026,7 +5026,7 @@
         }
     },
     {
-        "id": "b46a5edf-4d58-404d-bb12-722fb73123b2",
+        "id": "0545f0d4-5d49-4b21-9007-6b9e4bda4178",
         "name": "M. van de Ven",
         "rating": 82,
         "position": "CB",
@@ -5048,7 +5048,7 @@
         }
     },
     {
-        "id": "7de945ad-db1d-4e29-b1c5-0c97eced75fa",
+        "id": "e29f997c-f56c-44ad-8c28-349c0ae61f80",
         "name": "Brahim",
         "rating": 82,
         "position": "RM",
@@ -5071,7 +5071,7 @@
         }
     },
     {
-        "id": "d374cb40-16b3-4f52-84f7-e6a38bcb4f16",
+        "id": "55841647-1f68-4857-bf44-2d2f1386c48e",
         "name": "A. Robertson",
         "rating": 82,
         "position": "LB",
@@ -5092,7 +5092,7 @@
         }
     },
     {
-        "id": "74dfcd4b-7a9b-4b87-8c61-cc5e1807dd4e",
+        "id": "0f371fe9-a5c4-4125-9c2c-e0f6caaae305",
         "name": "S. Al Dawsari",
         "rating": 82,
         "position": "LM",
@@ -5113,7 +5113,7 @@
         }
     },
     {
-        "id": "fcad7b57-b057-4753-8702-b29b21fa66dc",
+        "id": "1d4b02ed-229d-4205-8118-d05d175096d4",
         "name": "D. Zakaria",
         "rating": 82,
         "position": "CDM",
@@ -5134,7 +5134,7 @@
         }
     },
     {
-        "id": "cd4ea257-d533-4a04-9419-2bfb2800ad39",
+        "id": "1fd87050-db01-4a73-8e6e-273a77f42816",
         "name": "M. de Ligt",
         "rating": 82,
         "position": "CB",
@@ -5153,7 +5153,7 @@
         }
     },
     {
-        "id": "264f95b8-ef19-4356-bef7-a1ee58e0854f",
+        "id": "74792a3b-84c8-42a1-9043-91d4ebebe9ce",
         "name": "C. Wood",
         "rating": 82,
         "position": "ST",
@@ -5172,7 +5172,7 @@
         }
     },
     {
-        "id": "7e5f223d-8a3b-4f9f-806d-2a1e74565451",
+        "id": "f7201ae7-21ca-4c22-a3f0-f7aede8de912",
         "name": "Y. Wissa",
         "rating": 82,
         "position": "ST",
@@ -5191,7 +5191,7 @@
         }
     },
     {
-        "id": "2290883c-8a60-4149-be3b-87c40b06f5c5",
+        "id": "b2893bc3-350e-4630-9e66-c969474e8a95",
         "name": "Nacho Fernández",
         "rating": 82,
         "position": "CB",
@@ -5214,7 +5214,7 @@
         }
     },
     {
-        "id": "932bf66f-83d2-4160-b012-ee022fd14ba6",
+        "id": "f88ecdcd-81e9-4041-bc95-8051eed3079d",
         "name": "M. Akanji",
         "rating": 82,
         "position": "CB",
@@ -5233,7 +5233,7 @@
         }
     },
     {
-        "id": "adc4986d-af98-4212-a8c1-1705d9bb2c56",
+        "id": "0816a138-0ddb-4309-8cd5-b0c606ff9294",
         "name": "M. Guendouzi",
         "rating": 82,
         "position": "CDM",
@@ -5254,7 +5254,7 @@
         }
     },
     {
-        "id": "aa840374-0cf4-4fc9-9b0a-e6b4d8f23def",
+        "id": "93c38eb9-86b9-44ce-978b-cb92ceb0d2e3",
         "name": "Parejo",
         "rating": 82,
         "position": "CM",
@@ -5275,7 +5275,7 @@
         }
     },
     {
-        "id": "681f1c2c-8386-4280-a1ce-fc5b0292c3e9",
+        "id": "6c88e2fe-0a16-4b9c-bee9-8f154a62e6a5",
         "name": "M. Kerkez",
         "rating": 82,
         "position": "LB",
@@ -5296,7 +5296,7 @@
         }
     },
     {
-        "id": "d2d45936-0bfa-4db6-b47d-99f5bc9f2257",
+        "id": "0429cf2a-7140-4307-ac6c-e9762d1cf1c6",
         "name": "Malcom",
         "rating": 82,
         "position": "CAM",
@@ -5319,7 +5319,7 @@
         }
     },
     {
-        "id": "27622032-c9e3-47cb-891f-5053b1538da2",
+        "id": "64c3f8eb-9919-45d0-b1de-a2bd4fe2ab8a",
         "name": "Berenguer",
         "rating": 82,
         "position": "LM",
@@ -5342,7 +5342,7 @@
         }
     },
     {
-        "id": "f9f22295-3b5c-4849-8d74-1d44aaf81af0",
+        "id": "027df802-034a-4fff-ad07-d33829f636f5",
         "name": "E. Can",
         "rating": 82,
         "position": "CB",
@@ -5364,7 +5364,7 @@
         }
     },
     {
-        "id": "e4be4d7e-fd01-4e2a-964d-5a06b28cc88a",
+        "id": "f0bdd88e-72b9-442a-a1ab-e2bf6a38f232",
         "name": "E. Konsa",
         "rating": 82,
         "position": "CB",
@@ -5386,7 +5386,7 @@
         }
     },
     {
-        "id": "25abfa28-f8d0-4d89-8550-bb289b78f815",
+        "id": "fb8f5aee-b9d5-4983-9318-ffa5490709c9",
         "name": "J. Burkardt",
         "rating": 82,
         "position": "ST",
@@ -5405,7 +5405,7 @@
         }
     },
     {
-        "id": "81843d8b-2fbb-48fc-ad88-f24b2bc4c92a",
+        "id": "983f0863-a9df-4297-a329-17105681c5e3",
         "name": "M. Svilar",
         "rating": 82,
         "position": "GK",
@@ -5424,7 +5424,7 @@
         }
     },
     {
-        "id": "c3aa3e0d-1602-4491-9e70-ae2ab499700b",
+        "id": "a1988454-5d69-4a8e-a86f-70293d46ddf5",
         "name": "Savinho",
         "rating": 82,
         "position": "RW",
@@ -5446,7 +5446,7 @@
         }
     },
     {
-        "id": "f4d80cf3-b332-4620-a772-2f3264f3ade5",
+        "id": "8588675b-c291-4b73-b060-13255c88888f",
         "name": "M. Greenwood",
         "rating": 82,
         "position": "RM",
@@ -5468,7 +5468,7 @@
         }
     },
     {
-        "id": "e0ff05e0-61a9-49b6-9e6a-0737c43d186b",
+        "id": "741b9001-0102-47de-83e6-b815b3c1b90a",
         "name": "D. Zapata",
         "rating": 82,
         "position": "ST",
@@ -5487,7 +5487,7 @@
         }
     },
     {
-        "id": "56f248ca-3dcb-4144-b6e2-a23f03361bea",
+        "id": "2b794413-1c2a-4a6d-ad30-5c6f92efc0b1",
         "name": "K. Casteels",
         "rating": 82,
         "position": "GK",
@@ -5506,7 +5506,7 @@
         }
     },
     {
-        "id": "9c8c6293-49a7-4c4c-b996-9430a8953e5f",
+        "id": "8b9303ca-0ba7-4c31-bcab-f51cfcb087ff",
         "name": "Á. Di María",
         "rating": 82,
         "position": "RW",
@@ -5527,7 +5527,7 @@
         }
     },
     {
-        "id": "b0f9f8ad-e3d0-429b-9f5b-731233ce350c",
+        "id": "2f722266-fa59-41e7-a4fd-09d34bf46efe",
         "name": "D. Huijsen",
         "rating": 82,
         "position": "CB",
@@ -5546,7 +5546,7 @@
         }
     },
     {
-        "id": "df592552-70a6-401d-a1d2-076af0771e8b",
+        "id": "5b6ff68a-0a50-4673-9ed4-478b7ab97239",
         "name": "Lucas Mantela",
         "rating": 82,
         "position": "GK",
@@ -5565,7 +5565,7 @@
         }
     },
     {
-        "id": "84ad1fba-0b93-4fa9-bfae-ddcd7cca0856",
+        "id": "b50771bc-9005-40b2-b648-1f690e9823c8",
         "name": "M. Ginter",
         "rating": 82,
         "position": "CB",
@@ -5584,7 +5584,7 @@
         }
     },
     {
-        "id": "77742046-ff77-486f-93c9-c00eac99255b",
+        "id": "e611f2ac-d7b5-4073-a686-96deb08ba7b3",
         "name": "A. Laporte",
         "rating": 82,
         "position": "CB",
@@ -5603,7 +5603,7 @@
         }
     },
     {
-        "id": "6a03c677-6f0c-4ac2-b1d7-c62c8c6a4d8a",
+        "id": "3c71b422-c6b6-4bf5-bed3-ce12d3e58272",
         "name": "Y. En-Nesyri",
         "rating": 82,
         "position": "ST",
@@ -5622,7 +5622,7 @@
         }
     },
     {
-        "id": "5c03793f-badb-4368-a4a5-b66060a475ee",
+        "id": "bbef7632-5c71-4c76-a279-fa9b6284687d",
         "name": "Kim Min Jae",
         "rating": 82,
         "position": "CB",
@@ -5641,7 +5641,7 @@
         }
     },
     {
-        "id": "e45f9772-185d-4349-888f-332ddaf175c8",
+        "id": "b6871a91-f003-44b2-89a9-0b5b45a3907f",
         "name": "P. Højbjerg",
         "rating": 82,
         "position": "CDM",
@@ -5662,7 +5662,7 @@
         }
     },
     {
-        "id": "53527ab7-c340-4e81-b893-77ddfdf78e74",
+        "id": "0e9d7ccc-0742-48bb-9f24-91957199edf3",
         "name": "Pablo Barrios",
         "rating": 82,
         "position": "CM",
@@ -5683,7 +5683,7 @@
         }
     },
     {
-        "id": "a96b3183-8294-4a7b-b4b7-33c1da37508d",
+        "id": "ff208255-a142-4db8-99e3-704629649c7a",
         "name": "R. Doan",
         "rating": 82,
         "position": "RM",
@@ -5705,7 +5705,7 @@
         }
     },
     {
-        "id": "ea052cc7-3980-4b0c-b642-2022848fdf85",
+        "id": "5a838742-3cd4-459e-b435-c2f7020a4ac2",
         "name": "D. Berardi",
         "rating": 82,
         "position": "RW",
@@ -5726,7 +5726,7 @@
         }
     },
     {
-        "id": "0e33cd32-be10-407a-a904-065e2f021e0f",
+        "id": "a8fc5ccc-974d-43ea-8212-7e58013e2086",
         "name": "A. Meret",
         "rating": 82,
         "position": "GK",
@@ -5745,7 +5745,7 @@
         }
     },
     {
-        "id": "0ae56326-bbd7-46e9-b84f-846803caa90b",
+        "id": "69f28ed8-31ab-42c6-9a88-8bf7daa50a02",
         "name": "O. Kökçü",
         "rating": 82,
         "position": "CM",
@@ -5767,7 +5767,7 @@
         }
     },
     {
-        "id": "5992fb0d-f462-486a-9121-4d24b2383025",
+        "id": "46574ece-e62a-4094-91ba-78267e6db53d",
         "name": "M. Tillman",
         "rating": 82,
         "position": "CAM",
@@ -5789,7 +5789,7 @@
         }
     },
     {
-        "id": "d95829c4-553c-4d73-8d4c-78e5fd17e269",
+        "id": "d15eaf8d-6676-411e-aafb-9ab9676e2139",
         "name": "G. Lo Celso",
         "rating": 82,
         "position": "CAM",
@@ -5811,7 +5811,7 @@
         }
     },
     {
-        "id": "27de5395-f056-4a40-bc7e-16c4d85d365c",
+        "id": "b9d29740-9aa6-41b2-b684-a1796ed75821",
         "name": "D. Alaba",
         "rating": 82,
         "position": "CB",
@@ -5833,7 +5833,7 @@
         }
     },
     {
-        "id": "0f7fd4e7-ff52-4090-a112-0ec1e399d91d",
+        "id": "a6bc070b-6bec-407e-acdf-fc1cb6d28628",
         "name": "Pedro Porro",
         "rating": 82,
         "position": "RB",
@@ -5854,7 +5854,7 @@
         }
     },
     {
-        "id": "bcb5bc0e-04cf-4b3c-90d6-2516aef7e4f0",
+        "id": "75eb5c1e-2814-403f-8287-c52a9fe437d8",
         "name": "F. Nmecha",
         "rating": 82,
         "position": "CDM",
@@ -5875,7 +5875,7 @@
         }
     },
     {
-        "id": "ca5ebf0d-4a8f-4649-aa9b-0ec730999e1f",
+        "id": "f1f98af5-7199-48e0-8a27-401f89a5fb3a",
         "name": "Otávio",
         "rating": 82,
         "position": "CAM",
@@ -5897,7 +5897,7 @@
         }
     },
     {
-        "id": "b830a0b6-7f4d-4227-94ea-8eb526e2df80",
+        "id": "635adf82-fbaf-490a-990b-d84160183ef5",
         "name": "T. Koopmeiners",
         "rating": 81,
         "position": "CAM",
@@ -5918,7 +5918,7 @@
         }
     },
     {
-        "id": "37770656-eb5a-4545-9eda-bd709a3cdba5",
+        "id": "9a79e343-4956-4d03-ab21-e52b14d9fe53",
         "name": "C. Tolisso",
         "rating": 81,
         "position": "CM",
@@ -5940,7 +5940,7 @@
         }
     },
     {
-        "id": "61f33ea7-ddfe-4e9a-9faf-187a82a16427",
+        "id": "8ce5e2a8-e860-41f1-ac63-50675d2eaed3",
         "name": "Sergi Darder",
         "rating": 81,
         "position": "LM",
@@ -5963,7 +5963,7 @@
         }
     },
     {
-        "id": "86877c95-e7d7-4783-8236-9b6c3481a2c8",
+        "id": "8e10d8ad-595b-4eac-9e93-0b2ab81882b3",
         "name": "R. James",
         "rating": 81,
         "position": "RB",
@@ -5982,7 +5982,7 @@
         }
     },
     {
-        "id": "ab92e20e-0a30-4fc7-bfe4-115e8dfaea99",
+        "id": "cdf133b7-eec2-4d6a-a543-d932b38af434",
         "name": "M. Brozović",
         "rating": 81,
         "position": "CDM",
@@ -6003,7 +6003,7 @@
         }
     },
     {
-        "id": "9f3cea4c-cad4-4eed-ad72-bb54c10fc4c9",
+        "id": "433ca6d8-5b51-407a-b901-3b3ae065b80a",
         "name": "Y. Carrasco",
         "rating": 81,
         "position": "LW",
@@ -6024,7 +6024,7 @@
         }
     },
     {
-        "id": "a789096f-0a99-4a23-82af-1a6f11a1992c",
+        "id": "d9394920-d014-4d7c-b31b-03e6e8394ebb",
         "name": "J. McGinn",
         "rating": 81,
         "position": "LM",
@@ -6047,7 +6047,7 @@
         }
     },
     {
-        "id": "df95ce5a-7006-4b22-a523-b08dc6df7405",
+        "id": "32271bf9-2647-4e47-b448-b0f403f61bff",
         "name": "I. Perišić",
         "rating": 81,
         "position": "RW",
@@ -6069,7 +6069,7 @@
         }
     },
     {
-        "id": "dad5d69b-17cf-4ef4-82b3-8b983861ba20",
+        "id": "2a7fd147-2552-4296-a835-c381617e459c",
         "name": "C. Gallagher",
         "rating": 81,
         "position": "CM",
@@ -6091,7 +6091,7 @@
         }
     },
     {
-        "id": "8a30070b-e464-43ae-8299-2c30e8be97d3",
+        "id": "5074a3ff-75d1-4938-bd79-f6af9be4aaa0",
         "name": "R. Freuler",
         "rating": 81,
         "position": "CDM",
@@ -6112,7 +6112,7 @@
         }
     },
     {
-        "id": "cba55d87-7d12-49af-bd06-5fab0b6f62ca",
+        "id": "a4baca61-560c-4743-86da-5e9c702b36e0",
         "name": "E. Tapsoba",
         "rating": 81,
         "position": "CB",
@@ -6131,7 +6131,7 @@
         }
     },
     {
-        "id": "ed9488f0-09a0-42aa-87e3-0a18fae64f5c",
+        "id": "29242735-9d16-41b0-9bf3-8ac62967deaf",
         "name": "L. Hernández",
         "rating": 81,
         "position": "CB",
@@ -6153,7 +6153,7 @@
         }
     },
     {
-        "id": "2b086d22-f2d0-4d9d-b8c4-2129bdd3e495",
+        "id": "64e0d9c2-61cc-4a0f-b89c-1e9f33228971",
         "name": "L. Balerdi",
         "rating": 81,
         "position": "CB",
@@ -6172,7 +6172,7 @@
         }
     },
     {
-        "id": "38642f0f-8e0b-4fef-b28c-8121fe23f32d",
+        "id": "80a6f759-0feb-4cff-8df3-edc2dcc49298",
         "name": "Nailton Suzuki",
         "rating": 81,
         "position": "CAM",
@@ -6194,7 +6194,7 @@
         }
     },
     {
-        "id": "072baff9-2e71-4461-ad4f-d47d2a3cbb19",
+        "id": "8db6d63f-f500-4c12-b9d4-d1edf0bc4f19",
         "name": "Isi",
         "rating": 81,
         "position": "CAM",
@@ -6217,7 +6217,7 @@
         }
     },
     {
-        "id": "293af683-155a-4c8b-8995-739326713f0a",
+        "id": "e895b318-2b1d-424a-a5c4-d007642bcab9",
         "name": "K. Adeyemi",
         "rating": 81,
         "position": "RM",
@@ -6240,7 +6240,7 @@
         }
     },
     {
-        "id": "78b3897b-827a-4a39-af30-6e8393cad921",
+        "id": "d5cfdc5b-2fa9-461a-a9b3-8a374811ef0f",
         "name": "R. Cherki",
         "rating": 81,
         "position": "RW",
@@ -6262,7 +6262,7 @@
         }
     },
     {
-        "id": "f0870141-5f12-40ba-9415-40c9d5f0cc4c",
+        "id": "8344878c-a655-4f9a-ab04-576742a3d758",
         "name": "R. Andrich",
         "rating": 81,
         "position": "CDM",
@@ -6284,7 +6284,7 @@
         }
     },
     {
-        "id": "a7544010-0790-47dd-b131-8d12ceb749be",
+        "id": "c9dda8c1-6e86-41ed-9c95-4e9ae55986fd",
         "name": "M. de Roon",
         "rating": 81,
         "position": "CM",
@@ -6305,7 +6305,7 @@
         }
     },
     {
-        "id": "bc3d488e-40bb-49cd-828c-ff49bb3ff7d2",
+        "id": "936e91c7-1236-44b0-b83b-aaed1afe2b16",
         "name": "Brais Méndez",
         "rating": 81,
         "position": "CM",
@@ -6327,7 +6327,7 @@
         }
     },
     {
-        "id": "eee2a7a3-e7ef-4383-ad27-c654bea05bdf",
+        "id": "8ea59fee-89fb-488f-83dc-289dc26adbc3",
         "name": "F. Kostić",
         "rating": 81,
         "position": "LM",
@@ -6349,7 +6349,7 @@
         }
     },
     {
-        "id": "ece27f6f-ded6-494b-a550-3e9aedb0c7f0",
+        "id": "f9fbdc0e-3fde-456c-8b81-0172dc23ed0b",
         "name": "K. Trapp",
         "rating": 81,
         "position": "GK",
@@ -6368,7 +6368,7 @@
         }
     },
     {
-        "id": "834e187d-80ee-4d93-85a7-eb147bd680c7",
+        "id": "0891a752-7f35-45cb-a46c-4792afe3926c",
         "name": "Raíllo",
         "rating": 81,
         "position": "CB",
@@ -6387,7 +6387,7 @@
         }
     },
     {
-        "id": "69edcb63-3300-45ff-ab15-19d1532e3658",
+        "id": "9c85e82c-4dba-4432-810f-8fe5fd87712e",
         "name": "David Neres",
         "rating": 81,
         "position": "LW",
@@ -6408,7 +6408,7 @@
         }
     },
     {
-        "id": "86d4a90d-224a-4625-97c8-2b470f42dee0",
+        "id": "35a1e583-151f-4ff9-8c1d-a7b53b2b5f35",
         "name": "M. Depay",
         "rating": 81,
         "position": "ST",
@@ -6430,7 +6430,7 @@
         }
     },
     {
-        "id": "b0452d4d-004b-432f-b693-7d57025b2ace",
+        "id": "dd7f1a69-0b65-489a-92de-3691065a91b1",
         "name": "D. Frattesi",
         "rating": 81,
         "position": "CM",
@@ -6449,7 +6449,7 @@
         }
     },
     {
-        "id": "20845c82-9c16-4eed-83c3-9436723b6697",
+        "id": "201daaea-d463-4350-9b94-0f139ce40e6a",
         "name": "Anderson Talisca",
         "rating": 81,
         "position": "CAM",
@@ -6472,7 +6472,7 @@
         }
     },
     {
-        "id": "2f763133-601a-4c42-9aec-ccb2e7c7869d",
+        "id": "25c49d35-9fe3-4970-b43c-7841245db688",
         "name": "C. Baleba",
         "rating": 81,
         "position": "CDM",
@@ -6493,7 +6493,7 @@
         }
     },
     {
-        "id": "2bd77a99-2d53-4df3-bf66-d3b6aad8e943",
+        "id": "6ca20ca2-1187-43af-9f50-235cfb5fd7b4",
         "name": "David Soria",
         "rating": 81,
         "position": "GK",
@@ -6512,7 +6512,7 @@
         }
     },
     {
-        "id": "2eaaa14e-e88d-439d-8a5d-11e3fff9107f",
+        "id": "bf323271-7f1e-437d-9e28-58bf7e0fc870",
         "name": "A. Kramarić",
         "rating": 81,
         "position": "CAM",
@@ -6533,7 +6533,7 @@
         }
     },
     {
-        "id": "7d00a969-c4f0-49cc-aeeb-dcc19d6a9333",
+        "id": "10966583-a256-4ca8-a5a4-4c5840b8e10d",
         "name": "D. Henderson",
         "rating": 81,
         "position": "GK",
@@ -6552,7 +6552,7 @@
         }
     },
     {
-        "id": "3aa71624-0114-45d0-9553-3d692c09f910",
+        "id": "b5fc97d0-db2a-438c-ba41-3c72480edfe0",
         "name": "R. Kolo Muani",
         "rating": 81,
         "position": "ST",
@@ -6571,7 +6571,7 @@
         }
     },
     {
-        "id": "66c2b647-a6ff-4e32-949b-c02f6956387f",
+        "id": "cb511ae7-1474-4c41-b070-45d8ecfe7f07",
         "name": "M. Icardi",
         "rating": 81,
         "position": "ST",
@@ -6590,7 +6590,7 @@
         }
     },
     {
-        "id": "81424f49-c218-4e3e-a145-a3c128d09991",
+        "id": "cba2b18a-0d68-4e57-a029-1607999ee9d1",
         "name": "Galeno",
         "rating": 81,
         "position": "LM",
@@ -6611,7 +6611,7 @@
         }
     },
     {
-        "id": "644954b1-377e-4ed9-9c6b-c6556428403b",
+        "id": "759cc35f-66ac-4fd8-9a49-1227268bbfd3",
         "name": "F. Chiesa",
         "rating": 81,
         "position": "RM",
@@ -6634,7 +6634,7 @@
         }
     },
     {
-        "id": "3e65b4c9-1075-4e07-828d-96bf671bc278",
+        "id": "c4abd878-428b-4ec3-a196-7290e6c5982b",
         "name": "K. Thuram",
         "rating": 81,
         "position": "CM",
@@ -6655,7 +6655,7 @@
         }
     },
     {
-        "id": "e62ab879-a8bf-4f0e-9749-01b473a3d785",
+        "id": "9a199d49-54d6-4cac-8c87-c4c8fe65dc27",
         "name": "Lucas Perri",
         "rating": 81,
         "position": "GK",
@@ -6674,7 +6674,7 @@
         }
     },
     {
-        "id": "878af6b5-abcf-40b4-a3e8-cd6e1e570221",
+        "id": "1ff12626-46df-4dbf-a380-78d444dd04bc",
         "name": "M. Darmian",
         "rating": 81,
         "position": "RB",
@@ -6696,7 +6696,7 @@
         }
     },
     {
-        "id": "43c0ff64-4462-4cf6-b003-00d783931616",
+        "id": "176bfeb0-1dc5-4ebc-8e96-f4e4ba8dc792",
         "name": "Rosival Dourado",
         "rating": 81,
         "position": "CDM",
@@ -6718,7 +6718,7 @@
         }
     },
     {
-        "id": "105d06e2-b947-436a-bf29-3897cee18dcb",
+        "id": "2cadfc42-0314-40b4-bac3-328e99f11965",
         "name": "Antony",
         "rating": 81,
         "position": "RW",
@@ -6739,7 +6739,7 @@
         }
     },
     {
-        "id": "73ed794c-7418-4abf-94bf-2dbc5022ca96",
+        "id": "6950771e-e11b-42c5-8997-ba1f63dfe814",
         "name": "Dani Ceballos",
         "rating": 81,
         "position": "CM",
@@ -6760,7 +6760,7 @@
         }
     },
     {
-        "id": "edde1dac-124a-4686-9deb-59f1b5770d9a",
+        "id": "757a5729-9836-4adf-9832-2230818dd7a6",
         "name": "R. Aït-Nouri",
         "rating": 81,
         "position": "LB",
@@ -6781,7 +6781,7 @@
         }
     },
     {
-        "id": "f951adac-dc7c-43ec-9bca-aaad467eed95",
+        "id": "26d93c56-b972-40d8-8c9e-dcfe5c40c1b7",
         "name": "Gabriel Martinelli",
         "rating": 81,
         "position": "LW",
@@ -6802,7 +6802,7 @@
         }
     },
     {
-        "id": "b60d211b-df4f-4ce5-a315-903c8ff1a172",
+        "id": "e6d8c9ff-19a3-4601-a667-e12c579fc87d",
         "name": "A. Elanga",
         "rating": 81,
         "position": "RW",
@@ -6823,7 +6823,7 @@
         }
     },
     {
-        "id": "1924fda1-e87d-4d21-9764-a3a192822b40",
+        "id": "c50e507d-1f46-4e4c-85fe-7515ae0052b7",
         "name": "W. Falcone",
         "rating": 81,
         "position": "GK",
@@ -6842,7 +6842,7 @@
         }
     },
     {
-        "id": "5a7eb47f-3050-46cb-9f1f-ee433268914c",
+        "id": "7eff2b84-909a-43c3-8020-e907c0d12991",
         "name": "F. Mendy",
         "rating": 81,
         "position": "LB",
@@ -6863,7 +6863,7 @@
         }
     },
     {
-        "id": "55e47a43-386a-47cc-b3fc-f54524c2cb43",
+        "id": "7693f737-9dd4-417f-b901-9dc6a9e1c914",
         "name": "D. Muñoz",
         "rating": 81,
         "position": "RB",
@@ -6884,7 +6884,7 @@
         }
     },
     {
-        "id": "22201ad7-844b-44d9-a22a-16ae51fca288",
+        "id": "4ae40289-c8e1-4a7e-b8ac-71ba7a79ae69",
         "name": "N. Süle",
         "rating": 81,
         "position": "CB",
@@ -6906,7 +6906,7 @@
         }
     },
     {
-        "id": "ce6ef19c-4f63-46e0-8ccf-a284541847e6",
+        "id": "7037d8da-78d7-497b-b0f0-be40e78af05c",
         "name": "M. Di Gregorio",
         "rating": 81,
         "position": "GK",
@@ -6925,7 +6925,7 @@
         }
     },
     {
-        "id": "17df0498-7fb3-4809-bea5-25943dfc056f",
+        "id": "15e7387f-6ef8-4497-9134-a6f692893b7d",
         "name": "M. Simakan",
         "rating": 81,
         "position": "CB",
@@ -6946,7 +6946,7 @@
         }
     },
     {
-        "id": "04e043fe-3ff8-4eff-bd05-125bac18df51",
+        "id": "9fd7f1af-24de-4ca2-9c62-d6e028bebfaf",
         "name": "N. Amiri",
         "rating": 81,
         "position": "CM",
@@ -6967,7 +6967,7 @@
         }
     },
     {
-        "id": "4da2ce28-b1a6-49e6-af68-4cbfa309380b",
+        "id": "8fc20937-2121-413c-b1a7-dffe3f1b972c",
         "name": "Morata",
         "rating": 81,
         "position": "ST",
@@ -6988,7 +6988,7 @@
         }
     },
     {
-        "id": "bb450c04-476c-4c52-bdf5-c7e51b3be867",
+        "id": "67db24d4-9b13-4d04-ab29-ede75caffbf0",
         "name": "Carlos Augusto",
         "rating": 81,
         "position": "LB",
@@ -7010,7 +7010,7 @@
         }
     },
     {
-        "id": "3a2b212c-12ef-44d7-bb26-fcd13787513b",
+        "id": "04aef180-1e20-4530-abaf-8ee5c0f5f1a5",
         "name": "F. Tomori",
         "rating": 81,
         "position": "CB",
@@ -7029,7 +7029,7 @@
         }
     },
     {
-        "id": "019a8bc1-0293-4db2-adf3-1eab01a539cc",
+        "id": "90d5d297-f9bf-471a-83b4-eeb507a1d6b4",
         "name": "N. Pope",
         "rating": 81,
         "position": "GK",
@@ -7048,7 +7048,7 @@
         }
     },
     {
-        "id": "942a2e32-7d8c-4cb7-8055-5ad2aaf3b7e9",
+        "id": "65229346-9392-4395-9d16-69cf3edf51ca",
         "name": "Rui Silva",
         "rating": 81,
         "position": "GK",
@@ -7067,7 +7067,7 @@
         }
     },
     {
-        "id": "114d04f9-92c8-4854-9f6a-9da4f9161133",
+        "id": "1bdded3d-facd-4ac6-bcf4-ad557098e0a3",
         "name": "S. Banza",
         "rating": 81,
         "position": "ST",
@@ -7086,7 +7086,7 @@
         }
     },
     {
-        "id": "e4e84b9a-dc6e-4a4b-be19-ce8b9a17af8e",
+        "id": "d4fe9d39-e05a-4c02-9c44-a80fb61362fe",
         "name": "G. Simeone",
         "rating": 81,
         "position": "RM",
@@ -7109,7 +7109,7 @@
         }
     },
     {
-        "id": "19cfdf7a-b6e6-46c6-aa2a-1a610b596199",
+        "id": "48b6273d-b3ec-4dc2-9dba-abde6fb35044",
         "name": "I. Toney",
         "rating": 81,
         "position": "ST",
@@ -7128,7 +7128,7 @@
         }
     },
     {
-        "id": "2a471023-785f-44a2-89d5-77af5ceaa8b2",
+        "id": "b92e68a6-016d-400c-89bf-55f409890346",
         "name": "M. Škriniar",
         "rating": 81,
         "position": "CB",
@@ -7147,7 +7147,7 @@
         }
     },
     {
-        "id": "f5df6e54-99e2-422e-ae74-88d80998e7ab",
+        "id": "bd603dc0-e529-454c-a2bd-8a57b0488bc3",
         "name": "Ricardo Horta",
         "rating": 81,
         "position": "CAM",
@@ -7170,7 +7170,7 @@
         }
     },
     {
-        "id": "f2e3fba0-bbbe-4362-a820-c73d07154181",
+        "id": "9735313f-a950-40ff-beb5-515d47bb5482",
         "name": "M. Politano",
         "rating": 81,
         "position": "RW",
@@ -7191,7 +7191,7 @@
         }
     },
     {
-        "id": "e69ea126-13b6-4748-a9c5-756e117167a6",
+        "id": "816c1781-0a19-4899-9103-87e1933eb10b",
         "name": "Miguel Gutiérrez",
         "rating": 81,
         "position": "LB",
@@ -7212,7 +7212,7 @@
         }
     },
     {
-        "id": "7c02f1f0-3e89-4403-8571-9820e2c1304e",
+        "id": "945242b0-2e57-468a-bc24-376b5cc048bc",
         "name": "Koke",
         "rating": 81,
         "position": "CM",
@@ -7233,7 +7233,7 @@
         }
     },
     {
-        "id": "fece943d-9ab7-46eb-b8e1-ac268a97992d",
+        "id": "9018b5ef-ea42-4fa9-bfcd-63646533d2d9",
         "name": "A. Güler",
         "rating": 81,
         "position": "RM",
@@ -7255,7 +7255,7 @@
         }
     },
     {
-        "id": "956aa1ac-6a70-433f-9af2-a33b41851403",
+        "id": "6ba45a2b-b1f0-46b6-a193-ee54d0877a86",
         "name": "Y. Herrera",
         "rating": 81,
         "position": "CM",
@@ -7277,7 +7277,7 @@
         }
     },
     {
-        "id": "cabde54b-1de0-4c56-a1ff-7413ecfd283d",
+        "id": "45ce5c7f-3202-4d32-9441-dc98a6be6785",
         "name": "L. Martínez",
         "rating": 81,
         "position": "CB",
@@ -7296,7 +7296,7 @@
         }
     },
     {
-        "id": "00cbac8b-e0af-4150-a111-c9fa3284e291",
+        "id": "93f85db3-1cb4-4bf7-a6a5-1d45b883572d",
         "name": "N. Aguerd",
         "rating": 81,
         "position": "CB",
@@ -7315,7 +7315,7 @@
         }
     },
     {
-        "id": "3083b78e-06a6-4fc3-b590-883e61caee16",
+        "id": "bdc31126-9a51-45c3-927c-b06a05e0d495",
         "name": "C. Nkunku",
         "rating": 81,
         "position": "CAM",
@@ -7338,7 +7338,7 @@
         }
     },
     {
-        "id": "7a2264df-42c9-4389-8354-5487defd12dc",
+        "id": "7df32cd7-6f72-407e-be6f-80bf83aa0c95",
         "name": "Gonçalo Inácio",
         "rating": 81,
         "position": "CB",
@@ -7357,7 +7357,7 @@
         }
     },
     {
-        "id": "a893c5cf-3635-4cf4-ac6a-1eb50992d6ad",
+        "id": "611d2553-2a89-42c9-ae77-857b8fd9abcd",
         "name": "Danilo Pereira",
         "rating": 81,
         "position": "CB",
@@ -7376,7 +7376,7 @@
         }
     },
     {
-        "id": "c4c0443d-db8b-4357-a3ca-af42dbe12539",
+        "id": "c4d4fb0c-5953-4e9b-84db-e19025c82316",
         "name": "L. Hrádecký",
         "rating": 81,
         "position": "GK",
@@ -7395,7 +7395,7 @@
         }
     },
     {
-        "id": "90c47608-d5f8-4719-8cda-cd7be8778dc1",
+        "id": "62e4d445-1e59-4e26-9a37-1eb318eabdcb",
         "name": "Gayà",
         "rating": 81,
         "position": "LB",
@@ -7416,7 +7416,7 @@
         }
     },
     {
-        "id": "4e5bfa36-0cdc-40cb-a38f-32936dd8515a",
+        "id": "57d22be4-52a7-42f2-9114-5defa3f4801d",
         "name": "Johnny Cardoso",
         "rating": 81,
         "position": "CDM",
@@ -7437,7 +7437,7 @@
         }
     },
     {
-        "id": "8b827ea9-837c-4dd3-82ce-00b35e8c6726",
+        "id": "6aca97cb-2fd9-47d5-9eaf-747e2911953a",
         "name": "T. Kleindienst",
         "rating": 81,
         "position": "ST",
@@ -7456,7 +7456,7 @@
         }
     },
     {
-        "id": "01b027f2-357a-40de-84ba-06548d350a50",
+        "id": "60abb365-b637-47c5-ab47-9c26ba15e2d4",
         "name": "V. Boniface",
         "rating": 81,
         "position": "ST",
@@ -7475,7 +7475,7 @@
         }
     },
     {
-        "id": "1b57a8d6-5643-4f9c-9289-8b657bdd0cae",
+        "id": "fc462828-343f-40e9-b70a-b08e2f4a2e8e",
         "name": "E. Džeko",
         "rating": 81,
         "position": "ST",
@@ -7494,7 +7494,7 @@
         }
     },
     {
-        "id": "8ae22045-0749-4f6c-b88b-d932cbcea0ac",
+        "id": "b69e1ed1-f888-4baf-87f7-1bf7f9f743a6",
         "name": "Welington Dano",
         "rating": 81,
         "position": "LB",
@@ -7516,7 +7516,7 @@
         }
     },
     {
-        "id": "a426b532-6769-4bfc-ace3-62af10fb7e5a",
+        "id": "8cc7d78e-8003-4f9d-bbfb-8cbb57fca3c8",
         "name": "A. Lunin",
         "rating": 81,
         "position": "GK",
@@ -7535,7 +7535,7 @@
         }
     },
     {
-        "id": "d0fd59e3-59df-4706-9cd3-b510e83e7874",
+        "id": "3e79a128-0c07-4c0a-97ec-9973f765f310",
         "name": "J. Murphy",
         "rating": 81,
         "position": "RW",
@@ -7556,7 +7556,7 @@
         }
     },
     {
-        "id": "e35b8bfc-3dc4-49ae-b37f-f6120d9ba3b8",
+        "id": "4f5ab1e1-1769-4b54-a7a9-a9a0e02b8fff",
         "name": "Gerard Moreno",
         "rating": 81,
         "position": "ST",
@@ -7578,7 +7578,7 @@
         }
     },
     {
-        "id": "6c53c875-d7ee-436a-ae31-68e5a3d5d5c5",
+        "id": "04fec241-8499-42f9-8a70-fd40045c83af",
         "name": "Y. Fofana",
         "rating": 81,
         "position": "CDM",
@@ -7599,7 +7599,7 @@
         }
     },
     {
-        "id": "5f201029-92d7-4cf4-b892-6027fa8c76c0",
+        "id": "5d0303dd-992f-4985-93d6-b577436bad12",
         "name": "Oswaldinato",
         "rating": 81,
         "position": "ST",
@@ -7618,7 +7618,7 @@
         }
     },
     {
-        "id": "c8e59a47-920e-4ef9-82d0-64f1a3820395",
+        "id": "847aec8f-9a38-462d-86df-bcf7996b49ca",
         "name": "E. Ndicka",
         "rating": 81,
         "position": "CB",
@@ -7637,7 +7637,7 @@
         }
     },
     {
-        "id": "68f87f8a-b894-4e53-8cfd-ce5d642f9f80",
+        "id": "b04c4b78-8dea-4f11-8568-257fb5c45961",
         "name": "P. Aubameyang",
         "rating": 81,
         "position": "ST",
@@ -7656,7 +7656,7 @@
         }
     },
     {
-        "id": "d6fc4a17-93a2-4360-b8bf-54e377e7f863",
+        "id": "d42dab59-d836-4935-b497-a0f7e083d948",
         "name": "A. Nübel",
         "rating": 81,
         "position": "GK",
@@ -7675,7 +7675,7 @@
         }
     },
     {
-        "id": "bbd4d287-7b79-4a2d-bc27-3d130c7ca81f",
+        "id": "76c61410-f7a8-4011-adb6-68395c6189aa",
         "name": "Andrey Santos",
         "rating": 80,
         "position": "CM",
@@ -7696,7 +7696,7 @@
         }
     },
     {
-        "id": "59d82ea0-81b7-4597-a86e-ac04659998ba",
+        "id": "e79f4b6f-ba87-4acc-b900-12d7adf78f8e",
         "name": "C. Jones",
         "rating": 80,
         "position": "CAM",
@@ -7718,7 +7718,7 @@
         }
     },
     {
-        "id": "f87061bc-d81d-4ca3-a8b7-1a1b93470143",
+        "id": "bc08c74e-65fd-4264-a07b-5452f8c7ced3",
         "name": "M. Pašalić",
         "rating": 80,
         "position": "CM",
@@ -7739,7 +7739,7 @@
         }
     },
     {
-        "id": "24714bc8-2dc5-4cfe-a070-fd1cebbbfe93",
+        "id": "007930b4-28d7-439b-a1cb-7c2051d1b0db",
         "name": "Ruiz de Galarreta",
         "rating": 80,
         "position": "CDM",
@@ -7760,7 +7760,7 @@
         }
     },
     {
-        "id": "a9bf6856-ec1e-4929-95e5-d5e75a51a01e",
+        "id": "8ef51960-2900-4606-9dc4-29ebe2ba28fb",
         "name": "A. Laurienté",
         "rating": 80,
         "position": "LW",
@@ -7781,7 +7781,7 @@
         }
     },
     {
-        "id": "43cd6751-0c4a-480b-8919-e3a1d68cbf53",
+        "id": "ce27486b-b6a1-4f98-9962-4ad81d8f6d7e",
         "name": "Marco Asensio",
         "rating": 80,
         "position": "RW",
@@ -7804,7 +7804,7 @@
         }
     },
     {
-        "id": "25c250a6-7f94-4c54-b482-7d9638db1bf6",
+        "id": "bebb12a9-f78e-4920-974c-725138405b51",
         "name": "E. Demirović",
         "rating": 80,
         "position": "ST",
@@ -7823,7 +7823,7 @@
         }
     },
     {
-        "id": "b4ea3b63-5135-4546-943b-c90a259c496c",
+        "id": "db2150f3-03e8-4de0-ad7e-afd81cda543c",
         "name": "A. Christensen",
         "rating": 80,
         "position": "CB",
@@ -7844,7 +7844,7 @@
         }
     },
     {
-        "id": "cff5287e-dd32-42f5-9943-1607e16c9eba",
+        "id": "35cc87e5-32df-496b-98c3-3fd42e360146",
         "name": "O. Kossounou",
         "rating": 80,
         "position": "CB",
@@ -7863,7 +7863,7 @@
         }
     },
     {
-        "id": "9f45be63-6dfe-497c-b039-2d959668ad14",
+        "id": "4f0fcd96-120e-4a7f-9061-d1114c88c10c",
         "name": "X. Schlager",
         "rating": 80,
         "position": "CDM",
@@ -7884,7 +7884,7 @@
         }
     },
     {
-        "id": "e293691e-624c-4d08-b788-e008b5ebe95d",
+        "id": "5ba92a64-ed83-4f94-8a68-5cc86f912d3e",
         "name": "L. Colwill",
         "rating": 80,
         "position": "CB",
@@ -7903,7 +7903,7 @@
         }
     },
     {
-        "id": "7f57a1ec-797c-45bf-ae2d-bd28921404be",
+        "id": "a00e55b1-55f6-4f12-94c4-dc5ecdb18049",
         "name": "Casemiro",
         "rating": 80,
         "position": "CDM",
@@ -7924,7 +7924,7 @@
         }
     },
     {
-        "id": "3b5d80b0-2dbd-4187-b887-d81c82f16cf8",
+        "id": "8bff5e33-03c8-4120-aeab-7884fe91ea5b",
         "name": "J. Grealish",
         "rating": 80,
         "position": "LW",
@@ -7945,7 +7945,7 @@
         }
     },
     {
-        "id": "0b18be26-f472-433b-9f29-662f30d4cc11",
+        "id": "9845b1be-475d-48f0-8a09-ce90c2e05459",
         "name": "K. Fortounis",
         "rating": 80,
         "position": "CAM",
@@ -7968,7 +7968,7 @@
         }
     },
     {
-        "id": "a661f085-105a-4546-801c-9cd1a38cfbbf",
+        "id": "3a3dad6b-d574-4d54-8212-661972bab53a",
         "name": "C. Lenglet",
         "rating": 80,
         "position": "CB",
@@ -7987,7 +7987,7 @@
         }
     },
     {
-        "id": "c270371c-1ce5-4e21-91b2-0a4180152cad",
+        "id": "cb25cbb8-6098-4ab4-a577-d882db400e87",
         "name": "O. Aina",
         "rating": 80,
         "position": "RB",
@@ -8009,7 +8009,7 @@
         }
     },
     {
-        "id": "b80f1572-f1b9-4bcd-ae2f-b0c48aee0184",
+        "id": "fd0cc275-0ed9-407c-a6a8-7590b4c29336",
         "name": "J. van Hecke",
         "rating": 80,
         "position": "CB",
@@ -8028,7 +8028,7 @@
         }
     },
     {
-        "id": "dfc86ff1-c281-4808-a7ad-3c0deef26300",
+        "id": "247f35af-6cb8-47d2-8b09-8ccf4b2f25b5",
         "name": "Alexsandro",
         "rating": 80,
         "position": "CB",
@@ -8047,7 +8047,7 @@
         }
     },
     {
-        "id": "685b98a4-896a-4c74-88bb-daf58d662eab",
+        "id": "bd7f9ba1-0c5c-4d4e-be6b-55bd8d47b6a1",
         "name": "V. Grifo",
         "rating": 80,
         "position": "LM",
@@ -8069,7 +8069,7 @@
         }
     },
     {
-        "id": "d9cbfc92-019b-4c26-a9fe-04a2bc55ba61",
+        "id": "aa10951e-c793-41e4-b8ee-f7021e604568",
         "name": "D. Udogie",
         "rating": 80,
         "position": "LB",
@@ -8088,7 +8088,7 @@
         }
     },
     {
-        "id": "666ad6a7-02ac-4b68-9e33-d08aae96194c",
+        "id": "44d26298-49bd-4e23-890a-2a7206026d22",
         "name": "Florentino",
         "rating": 80,
         "position": "CDM",
@@ -8110,7 +8110,7 @@
         }
     },
     {
-        "id": "d2ef0bc3-bd2c-4f83-84f8-0197ddb2c99a",
+        "id": "db427110-0d4f-4fe2-8920-90949c4041e4",
         "name": "Diego Llorente",
         "rating": 80,
         "position": "CB",
@@ -8129,7 +8129,7 @@
         }
     },
     {
-        "id": "d634a0e8-bb56-43ff-93de-0cbadd89e657",
+        "id": "6221389d-654c-45ef-b8c4-91e04bce681b",
         "name": "C. Lukeba",
         "rating": 80,
         "position": "CB",
@@ -8150,7 +8150,7 @@
         }
     },
     {
-        "id": "41f0c113-a139-4a29-a11a-7d66e09379eb",
+        "id": "937d751c-d788-47d2-bd36-9cef43853d85",
         "name": "Borja Iglesias",
         "rating": 80,
         "position": "ST",
@@ -8169,7 +8169,7 @@
         }
     },
     {
-        "id": "e12d91a9-0e59-4d3d-b0e5-9c0c596f7586",
+        "id": "db7387b7-8e9c-4009-b3e1-73acf7b766ec",
         "name": "N. Jackson",
         "rating": 80,
         "position": "ST",
@@ -8188,7 +8188,7 @@
         }
     },
     {
-        "id": "d1976afc-da21-409d-bada-7cbb0aaaca5f",
+        "id": "08606973-8a33-4f05-8c97-43fe8f8c15b8",
         "name": "Tony Abranjes",
         "rating": 80,
         "position": "CB",
@@ -8207,7 +8207,7 @@
         }
     },
     {
-        "id": "9efe664f-82fd-46d4-bbf6-caa0c89d59ea",
+        "id": "5d9e4e9d-f7e6-4fa8-9c46-4e226190f886",
         "name": "F. Honorat",
         "rating": 80,
         "position": "RM",
@@ -8229,7 +8229,7 @@
         }
     },
     {
-        "id": "5f67b3f1-f470-4d4b-983f-3c78ae81d4a4",
+        "id": "9edafb1e-3699-442e-be4f-d7843b911644",
         "name": "J. Schouten",
         "rating": 80,
         "position": "CDM",
@@ -8251,7 +8251,7 @@
         }
     },
     {
-        "id": "f9a8c50b-a561-4a66-aa0f-adfd2e57d48c",
+        "id": "183c0ef8-a2a2-47f6-8d3f-d57e1be83f5b",
         "name": "P. Rajković",
         "rating": 80,
         "position": "GK",
@@ -8270,7 +8270,7 @@
         }
     },
     {
-        "id": "ec5f32e8-d5c3-4d25-bc31-34e63ae09d27",
+        "id": "676c00cb-1092-4145-9a63-37ef9c9b7ed9",
         "name": "Bento",
         "rating": 80,
         "position": "GK",
@@ -8289,7 +8289,7 @@
         }
     },
     {
-        "id": "34488d71-61e6-4d09-aec3-e879fafe3857",
+        "id": "cfbf84c3-4fab-443b-b39a-526ea54292a0",
         "name": "A. Wan-Bissaka",
         "rating": 80,
         "position": "RB",
@@ -8310,7 +8310,7 @@
         }
     },
     {
-        "id": "13d73e6b-40a6-41b8-b011-c94a0ace6c30",
+        "id": "3f8361a8-66e7-48e3-8510-5704452188f7",
         "name": "L. Pellegrini",
         "rating": 80,
         "position": "CAM",
@@ -8331,7 +8331,7 @@
         }
     },
     {
-        "id": "48203d2a-dbb6-4d81-be37-c11afb5e6272",
+        "id": "775f7657-0e2e-4e1c-b931-bacd5e491292",
         "name": "M. Sabitzer",
         "rating": 80,
         "position": "CDM",
@@ -8352,7 +8352,7 @@
         }
     },
     {
-        "id": "1b5fd7f3-4d2d-449c-8e0d-fd3561b23a97",
+        "id": "9bc38709-d542-436a-9104-abe411b758b5",
         "name": "L. Digne",
         "rating": 80,
         "position": "LB",
@@ -8373,7 +8373,7 @@
         }
     },
     {
-        "id": "9197ad90-4460-472d-af79-c7e02e5d3e8b",
+        "id": "c5e7931b-0c7f-4704-86c3-18c0e728d05e",
         "name": "N. Madueke",
         "rating": 80,
         "position": "RW",
@@ -8394,7 +8394,7 @@
         }
     },
     {
-        "id": "72a6ecfe-dc08-48c1-9e70-ec141e4d6662",
+        "id": "32762612-affb-4308-afc4-64e628cba3ba",
         "name": "Yeremy Pino",
         "rating": 80,
         "position": "RM",
@@ -8417,7 +8417,7 @@
         }
     },
     {
-        "id": "3e083c6c-a93e-444a-985e-ab707a3faf57",
+        "id": "b67b89fb-a1f2-4403-97c9-0aba1bc960a5",
         "name": "A. Onana",
         "rating": 80,
         "position": "GK",
@@ -8436,7 +8436,7 @@
         }
     },
     {
-        "id": "761fb779-9334-4939-a7c5-b6c0522d8dc2",
+        "id": "d2982372-a494-4fdd-9c06-486f315586c2",
         "name": "S. Chukwueze",
         "rating": 80,
         "position": "RM",
@@ -8457,7 +8457,7 @@
         }
     },
     {
-        "id": "b1284d6d-abe2-41dd-a416-47821680a4fa",
+        "id": "d06d7e04-9bf6-4cc1-89e1-569147e9ee33",
         "name": "A. Semenyo",
         "rating": 80,
         "position": "RM",
@@ -8479,7 +8479,7 @@
         }
     },
     {
-        "id": "2bb90e38-f061-4a9a-b596-01d93a2b937b",
+        "id": "f7e9e362-e44e-4f84-8319-e82a76ffa142",
         "name": "I. Bennacer",
         "rating": 80,
         "position": "CDM",
@@ -8500,7 +8500,7 @@
         }
     },
     {
-        "id": "64385929-368f-43ee-8b5a-714afe2b8f66",
+        "id": "0875e507-6c24-4241-9d49-467aea4f4c51",
         "name": "B. Yılmaz",
         "rating": 80,
         "position": "LM",
@@ -8522,7 +8522,7 @@
         }
     },
     {
-        "id": "9be3273e-fc72-4330-86f9-ed4b91d84709",
+        "id": "dd7996d5-ce84-487d-841c-523bd858d9eb",
         "name": "Q. Timber",
         "rating": 80,
         "position": "CM",
@@ -8544,7 +8544,7 @@
         }
     },
     {
-        "id": "983b193d-e7de-47db-8cb4-e83b42cbcfad",
+        "id": "f8fe04bf-d51a-41d2-9f5f-f3d156ac5bf1",
         "name": "Héniton Pires",
         "rating": 80,
         "position": "GK",
@@ -8563,7 +8563,7 @@
         }
     },
     {
-        "id": "65d9d906-566c-4f40-9f5d-e42f417d6c8d",
+        "id": "8bdcb557-bf68-4071-8fe8-1799a51c7c42",
         "name": "R. Guerreiro",
         "rating": 80,
         "position": "LB",
@@ -8586,7 +8586,7 @@
         }
     },
     {
-        "id": "97e4cdd6-0c9b-423f-ac4f-8f7de8de3641",
+        "id": "5942b2d3-bb18-413b-a4a0-fb4819a37f0e",
         "name": "Douglas Luiz",
         "rating": 80,
         "position": "CM",
@@ -8607,7 +8607,7 @@
         }
     },
     {
-        "id": "2869e53f-d108-48a0-b76b-f5fff7215956",
+        "id": "2996c616-915c-48c3-abe7-17f7b9f8cf11",
         "name": "P. Groß",
         "rating": 80,
         "position": "CDM",
@@ -8628,7 +8628,7 @@
         }
     },
     {
-        "id": "e92406ae-d4e9-4c6e-b284-8639401d4f09",
+        "id": "0e862da5-d563-4566-85c3-4286ba6f0607",
         "name": "M. Arambarri",
         "rating": 80,
         "position": "CM",
@@ -8649,7 +8649,7 @@
         }
     },
     {
-        "id": "1a601c34-b462-4ffe-b483-7b1f5e3e8287",
+        "id": "42a8a30b-9145-4691-8e7d-de33f84d5676",
         "name": "R. Loftus-Cheek",
         "rating": 80,
         "position": "CM",
@@ -8670,7 +8670,7 @@
         }
     },
     {
-        "id": "fbc6e62a-a30b-4ac5-bda3-7e422181d3e1",
+        "id": "da89f03c-1def-416b-9676-9cd3e22d1a84",
         "name": "J. Tarkowski",
         "rating": 80,
         "position": "CB",
@@ -8689,7 +8689,7 @@
         }
     },
     {
-        "id": "15c6ad6e-6ba9-4bbb-84fc-185465e57452",
+        "id": "959a8668-d0e3-4f1a-83fa-4114e1696807",
         "name": "M. De Cuyper",
         "rating": 80,
         "position": "LB",
@@ -8711,7 +8711,7 @@
         }
     },
     {
-        "id": "f9b41663-c54c-429f-a40e-017d343126f5",
+        "id": "21c817a3-adce-4c69-9092-737f630338f3",
         "name": "Fred",
         "rating": 80,
         "position": "CM",
@@ -8733,7 +8733,7 @@
         }
     },
     {
-        "id": "8873a78c-0057-4965-8bb9-d71fecf833fa",
+        "id": "a2ccb917-5e38-4a24-a0b6-4696feae9e95",
         "name": "Fermín",
         "rating": 80,
         "position": "CAM",
@@ -8756,7 +8756,7 @@
         }
     },
     {
-        "id": "340dd5ac-33b4-4ac6-be8b-00e6fedae799",
+        "id": "417abfdd-a6ad-44d1-b97a-7060846eeadd",
         "name": "D. Solanke",
         "rating": 80,
         "position": "ST",
@@ -8775,7 +8775,7 @@
         }
     },
     {
-        "id": "aa4a56d9-a231-48a9-ad39-1148f0f5a26d",
+        "id": "7ffa1526-997a-4869-b4e3-a51eb3da7829",
         "name": "M. Amoura",
         "rating": 80,
         "position": "ST",
@@ -8798,7 +8798,7 @@
         }
     },
     {
-        "id": "55ad38cd-6070-4c9a-a7b7-43b163dd9f21",
+        "id": "1e070665-d907-44e2-a624-ea3daf5c0608",
         "name": "K. Aktürkoğlu",
         "rating": 80,
         "position": "LW",
@@ -8819,7 +8819,7 @@
         }
     },
     {
-        "id": "2da4fd1a-6c2b-4f75-9f93-2d9311c2d887",
+        "id": "2f44dc17-f726-4a51-8bc3-c8bbd6412c43",
         "name": "Gonçalo Ramos",
         "rating": 80,
         "position": "ST",
@@ -8838,7 +8838,7 @@
         }
     },
     {
-        "id": "abf9b1e3-1c36-4298-8894-356c76b36ac4",
+        "id": "fa7e97bb-a06b-48c8-8cf2-c8e1bb160254",
         "name": "Heberto Gaúcho",
         "rating": 80,
         "position": "CB",
@@ -8859,7 +8859,7 @@
         }
     },
     {
-        "id": "069fb65f-2e43-48aa-8822-b30b9bf9e811",
+        "id": "92df4ac3-acde-40ef-b174-cc9496d8c604",
         "name": "Đ. Petrović",
         "rating": 80,
         "position": "GK",
@@ -8878,7 +8878,7 @@
         }
     },
     {
-        "id": "a9b06b7d-9e25-4769-9b4e-9fb9ec175cd3",
+        "id": "850a2a69-60e0-4e48-8553-4653a52eea45",
         "name": "J. Sancho",
         "rating": 80,
         "position": "LM",
@@ -8900,7 +8900,7 @@
         }
     },
     {
-        "id": "704b2cf5-e24e-41bb-b40c-6d87957675b7",
+        "id": "c0c0eb09-a726-4d74-95c0-82a7b25b89c9",
         "name": "B. André",
         "rating": 80,
         "position": "CDM",
@@ -8921,7 +8921,7 @@
         }
     },
     {
-        "id": "36524473-3e32-4fa2-9a54-a1461bb7ccaf",
+        "id": "f1b5655d-4cc1-495c-a288-9955f186786c",
         "name": "Álvaro García",
         "rating": 80,
         "position": "LM",
@@ -8942,7 +8942,7 @@
         }
     },
     {
-        "id": "875b540a-4561-45ff-96bc-5bc84b7cca95",
+        "id": "66f8438f-7c7f-40e8-a1c6-d8047c8224ca",
         "name": "B. Cristante",
         "rating": 80,
         "position": "CM",
@@ -8963,7 +8963,7 @@
         }
     },
     {
-        "id": "8504db08-580f-46c0-a407-4d526bb07be9",
+        "id": "b358fff4-737f-4e7b-88c8-9fbb1bab2819",
         "name": "F. Rønnow",
         "rating": 80,
         "position": "GK",
@@ -8982,7 +8982,7 @@
         }
     },
     {
-        "id": "e1655328-0522-4263-982c-cfa59312a6d8",
+        "id": "978b6434-6afb-4d1f-a030-af7132421564",
         "name": "U. Çakır",
         "rating": 80,
         "position": "GK",
@@ -9001,7 +9001,7 @@
         }
     },
     {
-        "id": "3f95a7a3-c207-4ed6-842a-4d3d1e92165c",
+        "id": "25e68c71-f6a0-447e-a122-b0009112e1bb",
         "name": "Igor Paixão",
         "rating": 80,
         "position": "LM",
@@ -9022,7 +9022,7 @@
         }
     },
     {
-        "id": "009cd852-172a-4746-93d1-ded1698ef4a3",
+        "id": "50284f19-2435-4e0f-89eb-488aca46760a",
         "name": "R. Bentancur",
         "rating": 80,
         "position": "CDM",
@@ -9043,7 +9043,7 @@
         }
     },
     {
-        "id": "a2f28348-453e-45b4-91f9-5d2ec57a3186",
+        "id": "973a57bd-b9a5-45bd-aaed-3ab0173763bc",
         "name": "L. Hall",
         "rating": 80,
         "position": "LB",
@@ -9062,7 +9062,7 @@
         }
     },
     {
-        "id": "bca5f8d1-1297-4b50-809a-252371d377e5",
+        "id": "a5692ed1-b0e1-4dbb-b627-a7901be20189",
         "name": "P. Zieliński",
         "rating": 80,
         "position": "CM",
@@ -9081,7 +9081,7 @@
         }
     },
     {
-        "id": "319c5af0-9413-444b-ba40-ac50ea883322",
+        "id": "44406af2-6ceb-450c-aec5-29b356e1a3d0",
         "name": "B. Samba",
         "rating": 80,
         "position": "GK",
@@ -9100,7 +9100,7 @@
         }
     },
     {
-        "id": "4ee5529b-d8f5-4acb-afa0-60fc406d65fa",
+        "id": "65ff3974-3030-4918-8b9c-58cd3061c342",
         "name": "Maikel Catarino",
         "rating": 80,
         "position": "RB",
@@ -9121,7 +9121,7 @@
         }
     },
     {
-        "id": "80e313f2-0044-473e-a50f-77e0d9574169",
+        "id": "c987bd76-8e3b-416e-a5c7-214763a616ec",
         "name": "T. Müller",
         "rating": 80,
         "position": "CAM",
@@ -9143,7 +9143,7 @@
         }
     },
     {
-        "id": "f6cfa45b-caf6-44a6-94d7-8a80554128a8",
+        "id": "7a7a7912-06f0-46e3-b661-b1ead7639120",
         "name": "M. Rashford",
         "rating": 80,
         "position": "LM",
@@ -9165,7 +9165,7 @@
         }
     },
     {
-        "id": "2cf91a3c-22e1-4079-a733-5363b53d9189",
+        "id": "2ba1de6b-409b-4346-a64b-3385d528f743",
         "name": "B. Leno",
         "rating": 80,
         "position": "GK",
@@ -9184,7 +9184,7 @@
         }
     },
     {
-        "id": "5df46a12-28d1-4331-af4a-b6dc500b6992",
+        "id": "9a19c661-9855-4af1-ab81-98853e43b208",
         "name": "D. Undav",
         "rating": 80,
         "position": "ST",
@@ -9205,7 +9205,7 @@
         }
     },
     {
-        "id": "1978a9dd-17ec-432d-a1c7-dbf45f9408ac",
+        "id": "d217dd85-4d0e-4a68-a494-989df7eae5cf",
         "name": "T. Livramento",
         "rating": 80,
         "position": "RB",
@@ -9227,7 +9227,7 @@
         }
     },
     {
-        "id": "1feab31e-01d7-4962-a743-03b3d22bed97",
+        "id": "5398418f-6049-439a-b7d0-e0e7f52d0d3b",
         "name": "Pedro Neto",
         "rating": 80,
         "position": "RM",
@@ -9250,7 +9250,7 @@
         }
     },
     {
-        "id": "b9a70f39-bca4-48c7-8dd5-f5295270ee75",
+        "id": "fee3deee-8552-479e-b3cb-f1db132da945",
         "name": "J. Quiñones",
         "rating": 80,
         "position": "ST",
@@ -9272,7 +9272,7 @@
         }
     },
     {
-        "id": "54686e22-7d8d-48e1-abbf-4887a6ccd7e1",
+        "id": "bbf47674-5151-4e10-9e93-f2a7a9ac763a",
         "name": "O. Diomande",
         "rating": 80,
         "position": "CB",
@@ -9291,7 +9291,7 @@
         }
     },
     {
-        "id": "7a2baf05-98e1-4248-9c29-43dcd6e3fe73",
+        "id": "cf898fea-e9ce-471b-8287-b587cd6bf091",
         "name": "C. Smalling",
         "rating": 80,
         "position": "CB",
@@ -9310,7 +9310,7 @@
         }
     },
     {
-        "id": "a321a9d1-3770-477a-86c4-af05c42094d9",
+        "id": "51800ded-3903-4872-a005-43cac0011b36",
         "name": "É. Mendy",
         "rating": 80,
         "position": "GK",
@@ -9329,7 +9329,7 @@
         }
     },
     {
-        "id": "2abc8d7d-9d6f-443f-99a0-cae6b220f0ae",
+        "id": "88fa1dc4-60de-48cc-be06-c17a00053f70",
         "name": "Mario Hermoso",
         "rating": 80,
         "position": "CB",
@@ -9348,7 +9348,7 @@
         }
     },
     {
-        "id": "26fb09d7-dffd-4089-b291-9afee8d5d7a1",
+        "id": "cd364c09-4cfe-46cc-87c3-8cd8c583a43f",
         "name": "D. Livaković",
         "rating": 80,
         "position": "GK",
@@ -9367,7 +9367,7 @@
         }
     },
     {
-        "id": "a78ce70d-5898-47b3-aa37-49d3f043d8f8",
+        "id": "7d96a210-6971-44f6-a7df-bc10c0e91942",
         "name": "H. Maguire",
         "rating": 80,
         "position": "CB",
@@ -9386,7 +9386,7 @@
         }
     },
     {
-        "id": "a575b7b5-7069-46af-a740-8953d0337e6d",
+        "id": "086a7537-0eb7-495a-b64e-bacdebd78ca5",
         "name": "E. Skhiri",
         "rating": 80,
         "position": "CDM",
@@ -9407,7 +9407,7 @@
         }
     },
     {
-        "id": "94ad438d-984f-4854-b85d-abca3ff73299",
+        "id": "161db255-d581-444c-a53b-ffdbcf450610",
         "name": "M. Damsgaard",
         "rating": 80,
         "position": "CAM",
@@ -9428,7 +9428,7 @@
         }
     },
     {
-        "id": "6cd695f1-87fb-4a32-ba9c-60392d5a8a68",
+        "id": "a5982f63-5f78-41af-bdea-ad3e6235e093",
         "name": "F. Gatti",
         "rating": 80,
         "position": "CB",
@@ -9447,7 +9447,7 @@
         }
     },
     {
-        "id": "b3c5a1d5-b21c-43e5-8fa0-a95a88bbb495",
+        "id": "a7c4d7dd-4033-4ac6-b6c1-c9f9142b6bbc",
         "name": "Riqui Puig",
         "rating": 80,
         "position": "CM",
@@ -9468,7 +9468,7 @@
         }
     },
     {
-        "id": "dbf48f61-ce78-4ce2-ac3f-62e43387d132",
+        "id": "474d7a21-ec38-4d22-9fc3-7e35b7ae1bc5",
         "name": "B. Henrichs",
         "rating": 80,
         "position": "RB",
@@ -9490,7 +9490,7 @@
         }
     },
     {
-        "id": "273bd7af-fc94-4b95-afd9-108cf70e977f",
+        "id": "cd8122b4-fba8-46cd-a242-9ff24efd190a",
         "name": "V. Castellanos",
         "rating": 80,
         "position": "ST",
@@ -9509,7 +9509,7 @@
         }
     },
     {
-        "id": "f96ed81b-5077-45c9-ac64-4a67b32ada11",
+        "id": "d80a5ea4-01df-4686-9e93-347683d6d54a",
         "name": "H. Barnes",
         "rating": 80,
         "position": "LW",
@@ -9530,7 +9530,7 @@
         }
     },
     {
-        "id": "8f4a2af6-ac43-4e36-b621-cbe7647cd00e",
+        "id": "3d5acc86-88d0-4f6f-a2df-3fca2f86fb84",
         "name": "B. Šeško",
         "rating": 80,
         "position": "ST",
@@ -9549,7 +9549,7 @@
         }
     },
     {
-        "id": "335538bc-b717-4b4f-a079-289c547718bd",
+        "id": "a83d62cb-b125-44fb-a2ee-35d7a6fa40f5",
         "name": "A. Trubin",
         "rating": 80,
         "position": "GK",
@@ -9568,7 +9568,7 @@
         }
     },
     {
-        "id": "3006c257-ef91-4c94-9117-75306d4d4e2c",
+        "id": "f1812b7c-741c-4f12-a48e-753cc4b878cf",
         "name": "Sergio Busquets",
         "rating": 80,
         "position": "CDM",
@@ -9590,7 +9590,7 @@
         }
     },
     {
-        "id": "a58cd959-e613-489c-a217-d6c1ab8f7b5d",
+        "id": "7ca37a0a-aac3-45af-8440-c04a295849c8",
         "name": "C. Nørgaard",
         "rating": 80,
         "position": "CDM",
@@ -9611,7 +9611,7 @@
         }
     },
     {
-        "id": "74252da3-e53b-42e2-a803-5887d5595b5c",
+        "id": "31663b8e-bead-4953-aa5f-d721e1a68732",
         "name": "Pau Torres",
         "rating": 80,
         "position": "CB",
@@ -9630,7 +9630,7 @@
         }
     },
     {
-        "id": "edd81ff8-54c9-4d00-a04f-0feaecc3d8a5",
+        "id": "9022482c-7363-4f36-89a0-4a6cfb686ee1",
         "name": "Evanilson",
         "rating": 80,
         "position": "ST",
@@ -9649,7 +9649,7 @@
         }
     },
     {
-        "id": "fe54b58a-7f5c-454e-bee6-cfc7721f5866",
+        "id": "8455abf9-c16d-4683-b737-042b2299779b",
         "name": "C. Tzolis",
         "rating": 80,
         "position": "LM",
@@ -9670,7 +9670,7 @@
         }
     },
     {
-        "id": "e577c723-0d7d-43d5-9811-357f5e1d6ba0",
+        "id": "9e1fae70-0888-416b-897e-be6abc608753",
         "name": "Gabriel Sara",
         "rating": 80,
         "position": "CM",
@@ -9692,7 +9692,7 @@
         }
     },
     {
-        "id": "a9c9d510-8932-4a03-b41a-6f3e3baedf49",
+        "id": "71f7610e-0312-4c3a-9a58-5b4ff60d2100",
         "name": "A. El Kaabi",
         "rating": 80,
         "position": "ST",
@@ -9711,7 +9711,7 @@
         }
     },
     {
-        "id": "a2137541-ce76-45a6-9a76-224ff3e138a3",
+        "id": "8c716a58-5e66-42bb-8386-c6aede869e93",
         "name": "F. Aursnes",
         "rating": 80,
         "position": "CM",
@@ -9734,7 +9734,7 @@
         }
     },
     {
-        "id": "a6ac8680-dd27-48a2-9637-7ff730f07447",
+        "id": "d34a86cd-cc8d-46c4-8e6d-5751d4654d06",
         "name": "F. Kessié",
         "rating": 80,
         "position": "CDM",
@@ -9756,7 +9756,7 @@
         }
     },
     {
-        "id": "c8951a49-0d2b-47f4-a6bc-c6569382fcfd",
+        "id": "a77e9739-b474-4fba-8f7c-a9cc76324490",
         "name": "W. Singo",
         "rating": 80,
         "position": "CB",
@@ -9777,7 +9777,7 @@
         }
     },
     {
-        "id": "c49f3952-7ca5-4734-851a-5d84d847b607",
+        "id": "f073d405-16d3-4e1d-a318-221cfcbfe62c",
         "name": "E. Anderson",
         "rating": 80,
         "position": "CDM",
@@ -9798,7 +9798,7 @@
         }
     },
     {
-        "id": "cb40da33-d382-4396-a165-a7ec8961ecd3",
+        "id": "4c678ac3-3017-44c1-bec0-d09c7190c8b0",
         "name": "S. Bergwijn",
         "rating": 80,
         "position": "LM",
@@ -9819,7 +9819,7 @@
         }
     },
     {
-        "id": "c4441f52-978e-406a-a310-a72c518643fa",
+        "id": "5fa88e74-7ebe-434f-bfa8-baeada6085ff",
         "name": "Gabriel Jesus",
         "rating": 80,
         "position": "ST",
@@ -9840,7 +9840,7 @@
         }
     },
     {
-        "id": "137def43-c8e2-472d-94ab-75f0c745eb4c",
+        "id": "56041dec-7263-43c6-9948-70324431830c",
         "name": "N. Pépé",
         "rating": 80,
         "position": "RM",
@@ -9862,7 +9862,7 @@
         }
     },
     {
-        "id": "12c4da6f-0ab4-4f72-91ac-fc91a2dbdb82",
+        "id": "fd3ba240-4d16-492c-99ef-006febba773e",
         "name": "B. Dia",
         "rating": 80,
         "position": "ST",
@@ -9883,7 +9883,7 @@
         }
     },
     {
-        "id": "7d61b2a2-73ee-40db-8613-a344a91df8d0",
+        "id": "5a817950-9cb4-40be-a2f4-b3b805b2f478",
         "name": "M. Kudus",
         "rating": 80,
         "position": "RW",
@@ -9906,7 +9906,7 @@
         }
     },
     {
-        "id": "d21ad586-b556-4cd7-885e-1a6a86179d78",
+        "id": "854e21f7-56ae-45ef-947b-26d5cb758cb9",
         "name": "Álvaro Carreras",
         "rating": 80,
         "position": "LB",
@@ -9927,7 +9927,7 @@
         }
     },
     {
-        "id": "3de05f2c-7fe8-4e4e-a9bf-57a717f804fe",
+        "id": "45c9dc1a-689b-4d75-bed6-e7e272e9b64a",
         "name": "A. Theate",
         "rating": 80,
         "position": "CB",
@@ -9949,7 +9949,7 @@
         }
     },
     {
-        "id": "66d6125a-e6c4-4a74-ad9a-4dc41bbcc22d",
+        "id": "274c8097-6a3c-4ca9-a877-8bde767c3b60",
         "name": "N. Lang",
         "rating": 80,
         "position": "LW",
@@ -9970,7 +9970,7 @@
         }
     },
     {
-        "id": "d35c160a-b67b-4897-b44d-2f3bc6411ad1",
+        "id": "428eca82-dd14-43cb-a43c-14810465ef9a",
         "name": "P. Kalulu",
         "rating": 80,
         "position": "CB",
@@ -9991,7 +9991,7 @@
         }
     },
     {
-        "id": "db47d123-0ec6-4c8e-90dd-51d92847d46c",
+        "id": "b2aa4c37-65d7-4593-8af7-9acd6170ba8f",
         "name": "Lucas Paquetá",
         "rating": 80,
         "position": "CM",
@@ -10013,7 +10013,7 @@
         }
     },
     {
-        "id": "aa420faa-941a-4f6b-8d16-956802b7ab9a",
+        "id": "bb30dd4e-3769-4f90-9e1a-40d1aaf5a276",
         "name": "K. Trippier",
         "rating": 80,
         "position": "RB",
@@ -10034,7 +10034,7 @@
         }
     },
     {
-        "id": "03e28f4b-801c-4d8a-9878-faee1615a0a7",
+        "id": "404522d2-ad25-4009-bf0e-7de767b761c8",
         "name": "J. Clauss",
         "rating": 80,
         "position": "RB",
@@ -10055,7 +10055,7 @@
         }
     },
     {
-        "id": "27cb2f1c-21ad-4950-aafe-a68f33e203e6",
+        "id": "26e90698-5bdc-438a-b16b-2f4c32bdf6e4",
         "name": "Mingueza",
         "rating": 80,
         "position": "RB",
@@ -10077,7 +10077,7 @@
         }
     },
     {
-        "id": "05441c98-f9a8-4db1-9065-a1458cfb2572",
+        "id": "a2017aaa-fd9f-4dfa-948c-aa9f1da0b95d",
         "name": "R. Gosens",
         "rating": 80,
         "position": "LB",
@@ -10098,7 +10098,7 @@
         }
     },
     {
-        "id": "7c9de02e-d08b-4bc2-a1fe-d18c15f94aaa",
+        "id": "bdff026d-c6e8-437b-b1ac-b20ad701b9ce",
         "name": "W. Zaïre-Emery",
         "rating": 80,
         "position": "CM",
@@ -10120,7 +10120,7 @@
         }
     },
     {
-        "id": "86abd580-c472-4273-a297-8c638585c816",
+        "id": "92d2ddf9-c43c-4fd8-a630-cdd646e0f4be",
         "name": "G. Sudakov",
         "rating": 80,
         "position": "CAM",
@@ -10142,7 +10142,7 @@
         }
     },
     {
-        "id": "125f7d97-c1e9-48b2-9d11-8ec10db0aebe",
+        "id": "8704a455-33d0-4751-aafe-f813a08ec592",
         "name": "M. Akliouche",
         "rating": 80,
         "position": "RM",
@@ -10164,7 +10164,7 @@
         }
     },
     {
-        "id": "631da04c-0d54-4ff4-94d9-59bd5c4cfce3",
+        "id": "6525c9eb-7383-46d4-a211-315f213a474f",
         "name": "A. Bardakcı",
         "rating": 80,
         "position": "CB",
@@ -10186,7 +10186,7 @@
         }
     },
     {
-        "id": "d85d6a18-ebc2-4ae1-9984-e41d088adeaf",
+        "id": "a961c31d-f41d-4bc4-8f70-70259ba7ff3d",
         "name": "Laure Santeiro",
         "rating": 80,
         "position": "CAM",
@@ -10209,7 +10209,7 @@
         }
     },
     {
-        "id": "5ce42dc2-1c4a-499b-a3d2-9aa4e522e6a2",
+        "id": "897e839b-3f74-4986-b1d0-8125e0d83130",
         "name": "N. Mazraoui",
         "rating": 80,
         "position": "RB",
@@ -10231,7 +10231,7 @@
         }
     },
     {
-        "id": "6f1d7eab-e308-44c3-84e4-124f472c5628",
+        "id": "6293e512-4ba7-49bd-b99b-5465b7be37ae",
         "name": "A. Iwobi",
         "rating": 80,
         "position": "LM",
@@ -10253,7 +10253,7 @@
         }
     },
     {
-        "id": "1c68df9d-32c3-47d6-9cbb-41b65875eb86",
+        "id": "73a81180-b82f-4985-a208-b96a877a86ad",
         "name": "J. Doku",
         "rating": 80,
         "position": "LW",
@@ -10275,7 +10275,7 @@
         }
     },
     {
-        "id": "0b81422b-0d42-42a4-b8fa-5bd0b1ad8a6a",
+        "id": "e7e143b9-54b7-4d94-bb23-30777f7b67e9",
         "name": "Javi Galán",
         "rating": 80,
         "position": "LB",
@@ -10296,7 +10296,7 @@
         }
     },
     {
-        "id": "39dfae0e-0328-4de9-bc79-bcd6d31f71a3",
+        "id": "c8272e40-7c3a-4b6a-9617-e41a522d75e9",
         "name": "H. Vanaken",
         "rating": 80,
         "position": "CAM",
@@ -10317,7 +10317,7 @@
         }
     },
     {
-        "id": "4f2a0d9e-f78d-4dda-aa9a-74eb9b72886a",
+        "id": "167ce22d-b82f-4919-9d0c-31f185fa2df3",
         "name": "F. Medina",
         "rating": 79,
         "position": "CB",
